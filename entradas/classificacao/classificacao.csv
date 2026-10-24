@@ -1,0 +1,1382 @@
+﻿chave;assinatura;termo;decisao;nivel;id_categoria;motivo;componente;nota
+631|11|533;1f5d63f64275;Inteligência Artificial;conta;Macro;1;;;Seção Marco referencial do curso
+631|38|104;2e5ea7d170bc;Inteligência Artificial;conta;Macro;6;;;Lista de disciplinas do eixo em prosa (decisão p)
+631|43|1200;67f18f5414c6;Inteligência Artificial;conta;Meso;7;;;Figura 4.2 Matriz Curricular (grade sem setas)
+631|47|870;cf21200e9987;Inteligência Artificial;conta;Meso;7;;;
+631|51|191;5ae50c3c613c;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Requisitos
+631|51|758;037a678a82df;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Requisitos
+631|97|12;8bd948c66c84;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Título da ficha (6º Semestre Inteligência Artificial)
+631|97|171;9ffc74984c62;IA;conta;Micro;13;;;Campo Objetivo Geral da ficha
+631|97|438;de55c1f25e1f;IA;conta;Micro;13;;;Campo Objetivo Geral da ficha
+631|97|930;8c23bd80a4d1;IA;conta;Micro;12;ementa;;
+631|97|1637;6ce10dc8b9c4;Artificial Intelligence;descarta;;;bibliografia;;
+631|97|1775;bdc0d5943e6a;Artificial Intelligence;descarta;;;bibliografia;;
+631|97|1963;8be5d0b59a4a;Artificial Intelligence;descarta;;;bibliografia;;
+631|97|2271;2a9186856b88;Inteligência Artificial;descarta;;;bibliografia;;
+631|97|2480;4ea836390f1a;Inteligência Artificial;descarta;;;bibliografia;;
+631|97|2611;9e72307ca5d4;Inteligência Artificial;descarta;;;bibliografia;;
+631|118|544;df1d106172c0;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+631|118|1894;f0c36ff4b1f8;Inteligência Artificial;descarta;;;bibliografia;;
+631|139|328;ee4ff6d4716d;Artificial Intelligence;descarta;;;bibliografia;;
+631|140|740;428a05bdefce;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+631|140|2401;a8f9db788b25;Inteligência Artificial;descarta;;;bibliografia;;
+631|159|659;4160b9ef08ca;Inteligência Artificial;descarta;;;equivalencia;;Quadro 4.17 disciplinas da grade nova dispensadas pela grade antiga (equivalência)
+631|159|690;416a27ff53fc;Inteligência Artificial;descarta;;;equivalencia;;Quadro 4.17 disciplinas da grade nova dispensadas pela grade antiga (equivalência)
+631|218|852;a70d951f6e22;Inteligência Artificial;conta;Meso;7;;;Anexo de competências por componente (decisão i)
+1051|29|1047;807ea7d00bac;IA;conta;Micro;12;ementa;;
+1051|29|1213;bfc2f1cb43b1;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|7|1682;7240c1ed4749;Inteligência Artificial;conta;Macro;6;;;Descrição das habilitações (estrutura do curso)
+2712|7|2441;2ccea7480461;Inteligência Artificial;conta;Macro;6;;;Descrição das habilitações (estrutura do curso)
+2712|10|786;f945b5edfdca;Inteligência Artificial;conta;Macro;6;;;Catálogo de eletivas sem tabela (z, 4)
+2712|10|827;a9980fde600a;Inteligência Artificial;conta;Macro;6;;;Catálogo de eletivas sem tabela (z, 4)
+2712|10|1077;c85e703779b8;Inteligência Artificial;conta;Macro;6;;;Catálogo de disciplinas sem tabela (z, 4)
+2712|15|1527;338de42237c0;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|35|1144;2d60596592e7;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|35|1314;7c5394c4820d;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|35|1735;145129dee597;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|39|1085;30a664a79d15;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|55|1735;ce48446b19d7;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|55|1959;65881966ec48;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|55|2010;bab0d9ef2ab3;IA;conta;Micro;12;ementa;;
+2712|58|276;8b752f5337fb;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|58|432;df6e48b72f2d;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|58|2732;f0a3cbb1b864;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|58|2896;0469b4d6d01e;Inteligência Artificial;conta;Micro;12;ementa;;
+2712|61|1347;8e95e94041e7;Inteligência Artificial;conta;Meso;7;;;
+2712|62|1269;d6df46d1f97e;IA;descarta;;;sigla_outro_sentido;;IA = Instituto de Artes
+2712|66|1181;05b815b016ca;Inteligência Artificial;conta;Meso;7;;;
+2712|66|1240;681af8dce0dd;Inteligência Artificial;conta;Meso;7;;;Tabela de disciplinas do certificado de estudos (linhas = componentes)
+2712|67|425;45c2d6d336de;Inteligência Artificial;conta;Meso;7;;;Tabela de disciplinas do certificado de estudos
+2712|67|1797;d9b2e2cd88d0;Inteligência Artificial;conta;Macro;6;;;Prosa da descrição do certificado de estudos
+2712|67|2482;e1c2452ea8a8;Inteligência Artificial;conta;Meso;7;;;Reconferido no PDF
+2712|67|2961;6afdda293d6a;Inteligência Artificial;conta;Meso;7;;;Reconferido no PDF
+2712|67|3050;26dc08edf1aa;Inteligência Artificial;conta;Meso;7;;;Reconferido no PDF
+2712|71|3258;3a1c048557a2;Inteligência Artificial;conta;Macro;6;;;Certificado de estudos: lista com marcadores (decisão p)
+2712|73|2040;ba1c2f3f807e;Inteligência Artificial;conta;Macro;6;;;Certificado de estudos: lista com marcadores (decisão p)
+2712|206|919;6e79284aa709;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+2712|208|2956;f013466ba8e3;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+2712|208|3094;3ca20d637259;Inteligência Artificial;conta;Micro;15;;;Programa/conteúdo programático da ficha
+2712|209|104;4ee52df55a77;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+2712|209|274;f690e8bf2f49;Artificial Intelligence;descarta;;;bibliografia;;
+12836|6|3871;c1dd811ea4e7;Inteligência Artificial;descarta;;;linha_pesquisa;;Lista das linhas de pesquisa do PPGI (y, i)
+12836|7|433;810d733d802d;Inteligência Artificial;conta;Macro;1;;;Seção Histórico do Centro (decisão l)
+12836|25|733;5e2ca3538001;Inteligência Artificial;conta;Macro;6;;;Lista em prosa das linhas de optativas (decisão p)
+12836|30|1400;addc1d7d50cc;Inteligência Artificial;conta;Meso;7;;;Linha da tabela de componentes (matriz)
+12836|33|1133;a29ef8e5e5fc;Inteligência Artificial;conta;Meso;7;;;
+12836|40|576;59a0c5993a26;Inteligência Artificial;descarta;;;equivalencia;;
+12836|40|611;3436c66266ef;Inteligência Artificial;descarta;;;equivalencia;;
+12836|80|432;2a0571e02973;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+12836|80|457;826d4875e8a7;IA;descarta;;;duplicata_extenso;;
+12836|80|1011;583ed53fcc3f;IA;conta;Micro;12;ementa;;Campo Ementa da ficha
+12836|80|1029;32745387d5d6;IA;conta;Micro;12;ementa;;Campo Ementa da ficha
+12836|80|1087;247550cf99cf;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+12836|80|1332;ad18ca37b59e;Inteligência Artificial;descarta;;;bibliografia;;
+12836|80|1408;b414093f7b21;Artificial Intelligence;descarta;;;bibliografia;;
+12836|80|1897;0ff1f8044a8b;Artificial Intelligence;descarta;;;bibliografia;;
+12836|80|2223;694198a52321;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+12836|82|306;a2b1ec7e18b8;Inteligência Artificial;conta;Micro;12;ementa;;
+12836|82|331;698944b39986;IA;descarta;;;duplicata_extenso;;
+12836|82|350;f12d0787ff57;IA;conta;Micro;12;ementa;;Campo Ementa/Objetivos da ficha, não é bibliografia
+12836|82|410;94d6799abd20;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+12836|82|519;4d18f79fc98e;Inteligência Artificial;descarta;;;bibliografia;;
+12836|82|595;2f7410785f73;Artificial Intelligence;descarta;;;bibliografia;;
+12836|82|1082;5f0beb578c43;Artificial Intelligence;descarta;;;bibliografia;;
+12836|100|429;cfb00743f40a;Artificial Intelligence;descarta;;;bibliografia;;
+12836|115|690;890b9e31b8b9;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+12836|115|745;7dbe65f297d9;Inteligência Artificial;conta;Micro;12;ementa;;
+12836|115|992;3a7a7dabb662;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+12836|115|1490;b54eaa52a1d9;Inteligência Artificial;descarta;;;bibliografia;;
+12836|115|1651;8598f8051f31;Inteligência Artificial;descarta;;;bibliografia;;
+12836|115|1746;a23195444e38;Inteligência Artificial;descarta;;;bibliografia;;
+12836|115|2055;bc3d63cb91df;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+12836|119|1553;51cf4f556965;Artificial Intelligence;descarta;;;bibliografia;;
+12836|119|1675;ab3bc96c34ce;AI;descarta;;;bibliografia;;
+12836|119|1899;629e27bb66de;Inteligência Artificial;descarta;;;bibliografia;;
+12836|119|2039;44b0f3c6b53e;Inteligência Artificial;descarta;;;bibliografia;;
+14647|4|3567;df796845a2d1;Inteligência Artificial;conta;Macro;1;;;Seção 2 Apresentação do curso (decisão s)
+14647|11|1466;5302b72ddf11;Inteligência Artificial;conta;Meso;7;;;
+14647|23|956;950ad9580277;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (Big Data Science)
+14647|24|2220;12df48e511ea;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (LAB-SCA)
+14647|25|670;882ab728a1b4;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (áreas atendidas)
+18249|6|1402;6349682d7988;Inteligência Artificial;descarta;;;sumario;;
+18249|6|3167;4bfd3ddce9c5;Inteligência Artificial;descarta;;;sumario;;
+18249|7|1797;0914565720b2;Inteligência Artificial;descarta;;;sumario;;
+18249|10|2829;86553ae7fc8a;Inteligência Artificial;descarta;;;sumario;;
+18249|11|958;98e1bfdfc253;Inteligência Artificial;descarta;;;sumario;;
+18249|60|1287;e75c3551cea6;Inteligência Artificial;conta;Meso;7;;;Tabela 4.3 disciplinas do núcleo de conteúdos específicos
+18249|60|1313;c1f498350884;Inteligência Artificial;conta;Meso;7;;;Tabela 4.3 disciplinas do núcleo de conteúdos específicos
+18249|62|396;3115484f3b1e;Inteligência Artificial;conta;Meso;7;;;Tabela 4.4 núcleo de disciplinas optativas
+18249|66|429;d7de21f615ab;Inteligência Artificial;conta;Meso;7;;;
+18249|67|244;a71123f997ca;Inteligência Artificial;conta;Meso;7;;;
+18249|68|1215;5c753f9bf321;Inteligência Artificial;conta;Meso;7;;;Tabela 4.16 Lista de disciplinas optativas (seção Estrutura Curricular)
+18249|72|1181;fa9319e1f71d;Inteligência Artificial;conta;Meso;7;;;
+18249|74|213;302716962015;Inteligência Artificial;conta;Meso;7;;;
+18249|75|1520;2fa6f193c6fb;Inteligência Artificial;conta;Meso;7;;;Tabela de pré-requisitos (linhas = componentes)
+18249|97|2066;fe7684fd05ec;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18249|97|2113;df09777be082;Inteligência Artificial;conta;Micro;12;ementa;;
+18249|98|188;2b952a8962c1;Inteligência Artificial;descarta;;;bibliografia;;
+18249|98|275;a527e84edf3e;Inteligência Artificial;descarta;;;bibliografia;;
+18249|98|373;3468d4c543d7;Inteligência Artificial;descarta;;;bibliografia;;
+18249|98|499;f00a4a0423c5;Artificial Intelligence;descarta;;;bibliografia;;
+18249|98|777;ebc6d8a85758;Inteligência Artificial;descarta;;;bibliografia;;
+18249|98|862;7f1739f1521d;Inteligência Artificial;descarta;;;bibliografia;;
+18249|103|510;4398f8e44a17;Artificial Intelligence;descarta;;;bibliografia;;
+18249|103|710;51db1c733ae0;Inteligência Artificial;descarta;;;bibliografia;;
+18249|105|1397;0270eec6a3b6;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18249|105|1445;75a3e2436655;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+18249|105|1563;e77db0c1e6b6;Inteligência Artificial;conta;Micro;12;ementa;;
+18249|106|194;1eaf948043a2;Inteligência Artificial;descarta;;;bibliografia;;
+18249|106|296;34b8db0c4403;Inteligência Artificial;descarta;;;bibliografia;;
+18249|120|751;9da9be793c23;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18249|120|812;080818c26429;Inteligência Artificial;conta;Micro;12;ementa;;
+18249|120|922;504490d970e3;Inteligência Artificial;conta;Micro;12;ementa;;
+18249|124|1009;268119ff387d;IA;conta;Micro;12;ementa;;
+18249|124|1815;b0f6f97b480f;AI;descarta;;;bibliografia;;
+18249|137|1880;0bd68a38a65b;Inteligência Artificial;descarta;;;bibliografia;;
+18249|240|547;50cc6d9a0cff;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18249|240|618;6c866d6669d8;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+18249|240|807;937862ad655c;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+18249|240|1027;c8ef23ec326b;Inteligência Artificial;conta;Micro;15;;;
+18249|255|301;20a2f1873248;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome: Inteligência Artificial II (ficha ECOM09B)
+18249|255|373;dc912205b4fb;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+18392|19|937;c88cdc5358b3;Inteligência Artificial;conta;Macro;3;;;Seção 3.2 Objetivos específicos do curso
+18392|39|1191;77ff06b5e5c2;Inteligência Artificial;conta;Macro;5;;;Subseção 7.2.1 Competências e habilidades
+18392|41|2819;4811996ee90d;Inteligência Artificial;conta;Meso;7;;;
+18392|47|3133;8ff42bc37600;Inteligência Artificial;conta;Macro;1;;;Seção 7.3.4 Indissociabilidade entre ensino, pesquisa e extensão (F3)
+18392|56|1360;a7dfe56371ef;Inteligência Artificial;sem_topico;Meso;;;;Quadro conteúdo (DCN) x componente: termo na coluna Conteúdo (decisão i)
+18392|56|1392;df7ab060c08d;Inteligência Artificial;conta;Meso;7;;;
+18392|62|-1;828f89791769;Inteligência Artificial;conta;Meso;9;;;Figura 19 fluxograma (decisão h)
+18392|62|469;811bc6fcdb52;IA;descarta;;;outro_nao_curricular;;"ruído de OCR (legenda do fluxograma; y, n). Obs.: a caixa DCA3606 Inteligência Artificial do fluxograma não é lida pela máquina"
+18392|65|885;4564ae8a4c8d;Inteligência Artificial;conta;Meso;7;;;
+18392|67|1516;97bc6477db2c;Inteligência Artificial;conta;Meso;7;;;
+18392|71|3303;1b2e470c84a8;Inteligência Artificial;conta;Meso;7;;;Quadro estrutura antiga x nova (y, l)
+18392|71|3653;fed5ec4b971b;Inteligência Artificial;conta;Meso;7;;;Quadro estrutura antiga x nova (y, l)
+18392|72|2407;8c4aa52922f3;Inteligência Artificial;descarta;;;equivalencia;;Tabela 36 componentes novos como equivalentes nas estruturas anteriores
+18392|131|696;c7bb9cf385e3;Inteligência Artificial;conta;Meso;7;;;Lista de componentes por departamento antes do ementário (decisão i)
+18392|164|342;71fb636e0b00;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18392|164|2089;afda0bc48c18;Inteligência Artificial;descarta;;;equivalencia;;Campo EQUIVALÊNCIAS dentro da ficha (y, c)
+18392|164|2121;49bfc18e2cd9;Inteligência Artificial;descarta;;;equivalencia;;Campo EQUIVALÊNCIAS dentro da ficha (y, c)
+18392|164|2153;e0c9926ffffa;Inteligência Artificial;descarta;;;equivalencia;;Campo EQUIVALÊNCIAS dentro da ficha (y, c)
+18392|164|2210;d4474d2bd992;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|165|185;c876dcd79165;Inteligência Artificial;descarta;;;bibliografia;;
+18392|178|2486;04339cec5c5f;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+18392|183|2221;04339cec5c5f;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+18392|185|547;85b1a7ee448b;Inteligência Artificial;conta;Meso;7;;;Lista de componentes optativos por departamento antes do ementário (decisão i)
+18392|190|1990;ea06abff73a7;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|200|2338;b141aa0de99e;AI;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+18392|202|342;7a5c1deb5534;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+18392|202|2262;9152e7671597;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa/Descrição
+18392|202|2404;3830b9154b08;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|208|1974;073cc8cf1daa;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|291|459;4ef1a6c93f70;Inteligência Artificial;descarta;;;bibliografia;;
+18392|291|1103;68ebb367fbca;Inteligência Artificial;descarta;;;bibliografia;;
+18392|292|1849;d6ee1ba30868;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|352|214;eb998fd644ff;Inteligência Artificial;descarta;;;bibliografia;;
+18392|352|501;bc00c22079a4;Inteligência Artificial;descarta;;;bibliografia;;
+18392|356|1227;f8660f0392fc;Inteligência Artificial;descarta;;;bibliografia;;
+18392|356|1434;4c3b162f3e86;Inteligência Artificial;descarta;;;bibliografia;;
+18392|363|2265;66539074b735;Inteligência Artificial;descarta;;;bibliografia;;
+18392|363|2333;5ba56671d221;Inteligência Artificial;descarta;;;bibliografia;;
+18392|363|2422;66812dbe9fdb;Inteligência Artificial;descarta;;;bibliografia;;
+18392|364|1295;430996436ed7;Artificial Intelligence;descarta;;;bibliografia;;
+18392|366|266;f5162b508112;AI;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+18392|366|518;4b9b2f6fda16;AI;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+18392|391|2049;b2664736f118;Inteligência Artificial;conta;Micro;12;ementa;;
+18392|392|2189;1912c9c4d4fa;AI;descarta;;;bibliografia;;
+18392|432|2632;b7d2c59adb62;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|433|2957;80a60f0e9edc;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|529|686;c7bb9cf385e3;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|562|337;71fb636e0b00;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|562|2084;afda0bc48c18;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|562|2116;49bfc18e2cd9;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|562|2148;e0c9926ffffa;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|562|2205;d4474d2bd992;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|563|180;c876dcd79165;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|576|2481;04339cec5c5f;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|582|2216;04339cec5c5f;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|585|537;85b1a7ee448b;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|590|1985;ea06abff73a7;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|600|2333;b141aa0de99e;AI;descarta;;;fora_do_ppc;;
+18392|602|337;7a5c1deb5534;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|602|2257;9152e7671597;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|602|2399;3830b9154b08;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|608|1969;073cc8cf1daa;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|693|454;4ef1a6c93f70;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|693|1098;68ebb367fbca;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|694|1844;d6ee1ba30868;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|755|209;eb998fd644ff;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|755|496;bc00c22079a4;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|759|1222;f8660f0392fc;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|759|1429;4c3b162f3e86;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|766|2260;66539074b735;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|766|2328;5ba56671d221;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|766|2417;66812dbe9fdb;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|767|1290;430996436ed7;Artificial Intelligence;descarta;;;fora_do_ppc;;
+18392|769|261;f5162b508112;AI;descarta;;;fora_do_ppc;;
+18392|769|513;4b9b2f6fda16;AI;descarta;;;fora_do_ppc;;
+18392|794|2044;b2664736f118;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|795|2184;1912c9c4d4fa;AI;descarta;;;fora_do_ppc;;
+18392|824|891;eb10167a669e;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|826|1422;9e6e0016df4b;IA;descarta;;;fora_do_ppc;;
+18392|832|1317;9731c438bed5;Inteligência Artificial;descarta;;;fora_do_ppc;;
+18392|832|1443;1f212a5463bd;Inteligência Artificial;descarta;;;fora_do_ppc;;
+20856|14|1626;7c89f8f34950;Inteligência Artificial;conta;Macro;2;;;Seção 3 Realidade regional
+20856|32|895;955d74e68553;Inteligência Artificial;conta;Meso;7;;;
+20856|37|341;24f0f35ef9ad;Inteligência Artificial;conta;Meso;7;;;
+20856|58|1274;762807fdf2db;Inteligência Artificial;descarta;;;bibliografia;;
+20856|58|1587;4ee4b1c35f5c;Inteligência Artificial;descarta;;;bibliografia;;
+20856|60|834;25ea68b98382;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+20856|60|1113;c3b4ba71386d;Inteligência Artificial;descarta;;;bibliografia;;
+20856|60|1377;3fc8c6e6880b;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+20856|60|1583;7c821366c013;Artificial Intelligence;descarta;;;bibliografia;;
+20856|86|1385;59e7d4f02443;Inteligência Artificial;descarta;;;infraestrutura;;Descrição dos laboratórios de informática (disciplinas atendidas)
+45883|25|735;8359ffb79750;Inteligência Artificial;sem_topico;Meso;;;;Tabela 3 Disciplinas do NCP: coluna Tópico vem da Portaria Inep/Res. CNE/CES 11 (y, h)
+45883|25|781;422276ff2a2c;Inteligência Artificial;conta;Meso;7;;;Tabela 3: nome do componente na coluna Disciplinas
+45883|27|397;f3bad8226607;Inteligência Artificial;sem_topico;Meso;;;;Quadro áreas de conhecimento x núcleos: termo na coluna de área (decisão r)
+45883|30|777;da990433a2e7;Inteligência Artificial;conta;Meso;7;;;
+45883|43|1682;79842cf6063b;Inteligência Artificial;conta;Meso;7;;;Tabela 9 disciplinas curriculares de extensão (linhas = componentes)
+45883|58|708;243dfb13b49b;Inteligência Artificial;descarta;;;docente;;Formação de docente (quadro de docentes)
+45883|67|930;d2cb5776cd35;Inteligência Artificial;conta;Meso;9;;;Grade por período sem setas e sem título Matriz Curricular (ponto fino 1)
+45883|153|768;5a29660eb8c7;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|166|163;3b9032104ce1;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+45883|166|422;2d9fcfb69000;Inteligência Artificial;conta;Micro;12;ementa;;
+45883|166|1155;f894c1c42b62;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|166|1242;ec2886ac4dfa;Inteligência Artificial;conta;Micro;14;;;
+45883|166|1320;3dea31c1a9e5;Inteligência Artificial;conta;Micro;14;;;
+45883|166|1426;2fcc02a7e5f0;Inteligência Artificial;conta;Micro;14;;;Campo Competências/Habilidades da ficha
+45883|166|1632;d6e8654a05e2;Inteligência Artificial;conta;Micro;14;;;
+45883|166|1798;2d535ea36e6e;Inteligência Artificial;conta;Micro;14;;;
+45883|167|974;19dd050c2a77;Inteligência Artificial;conta;Micro;15;;;
+45883|167|1353;7ea78e238dbb;IA;conta;Micro;15;;;
+45883|168|1078;4e367652d4d2;Artificial Intelligence;descarta;;;bibliografia;;
+45883|168|1195;6ef95becefa6;Artificial Intelligence;descarta;;;bibliografia;;
+45883|168|1426;1bc41c930cb7;Inteligência Artificial;descarta;;;bibliografia;;
+45883|168|1551;6b8de276cec2;Inteligência Artificial;descarta;;;bibliografia;;
+45883|186|139;ead84aae2a1d;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+45883|186|779;401de57d5de7;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|187|1357;de928941cfe5;Inteligência Artificial;descarta;;;bibliografia;;
+45883|196|813;517c4ac4bf10;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO da ficha
+45883|208|169;c4743696dfd0;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+45883|208|585;27c4596fbc4b;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|210|710;a981b4bbc70f;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|249|704;ccb14e149441;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO da ficha
+45883|251|134;8442849cd328;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+45883|251|885;f9f425d26d30;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|252|1548;4e367652d4d2;Artificial Intelligence;descarta;;;bibliografia;;
+45883|253|141;fd4d2075a175;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+45883|253|449;65a2d586acc8;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO da ficha de Redes Neurais Artificiais
+45883|255|879;521fa112cfba;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|257|987;34931f0720c1;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO do cabeçalho da ficha
+45883|259|137;301014a465e4;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+45883|259|388;e16e08836bb1;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+45883|259|707;a9b69acc2091;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo ÁREA/EIXO/NÚCLEO da ficha
+45883|259|885;9a4e06b3f0a9;Inteligência Artificial;conta;Micro;14;;;
+45883|259|1618;99b3b77301fb;IA;conta;Micro;14;;;
+45883|259|1676;11f8f5a72892;IA;conta;Micro;14;;;
+45883|261|178;7c7f5c745db4;Inteligência Artificial;conta;Micro;15;;;
+45883|261|610;07b8abc79f22;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+45883|261|751;6faeba81c51e;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+45883|261|1264;d3b25ffdeb59;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+45883|330|735;6f4ddeec24f5;Inteligência Artificial;conta;Meso;7;;;
+45883|336|45;d65a454d9f66;Inteligência Artificial;conta;Meso;7;;;
+52535|40|645;6eb14fc72c88;Inteligência Artificial;descarta;;;bibliografia;;
+52535|40|754;b0b5e626c006;Inteligência Artificial;descarta;;;bibliografia;;
+52535|40|1031;32ab02372ffe;Inteligência Artificial;descarta;;;bibliografia;;
+52535|40|1097;a5d3fe04458e;Inteligência Artificial;descarta;;;bibliografia;;
+52535|40|1173;c448e8bb7ee5;Inteligência Artificial;descarta;;;bibliografia;;
+53193|53|874;d3a2d333fde2;Inteligência Artificial;sem_topico;Meso;;;;Quadro matérias da SBC x atividades: termo na coluna de matéria (decisão r)
+53193|66|1415;3a079b130c2c;Inteligência Artificial;conta;Micro;12;ementa;;
+53193|66|2049;5bc4da864367;Inteligência Artificial;descarta;;;bibliografia;;
+53193|66|2596;72cf248e669f;Inteligência Artificial;descarta;;;bibliografia;;
+53193|67|108;883cc550ed36;Inteligência Artificial;descarta;;;bibliografia;;
+53193|67|541;6d7fcadcfec2;Inteligência Artificial;descarta;;;bibliografia;;
+64710|13|2268;e340218744cd;Inteligência Artificial;conta;Meso;7;;;
+64710|13|2881;312c868d2616;Inteligência Artificial;conta;Meso;7;;;
+64710|13|3581;3982f0951b37;Inteligência Artificial;conta;Meso;7;;;
+64710|30|1527;bf8807719ec1;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+64710|30|1566;799c7103c452;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+64710|31|1994;e51f38f5186f;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+64710|32|864;05b1de699337;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+64710|33|678;7ee056e357ed;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+64710|34|523;1578ca77ced4;IA;conta;Micro;12;ementa;;Ementário em tabela (decisão q)
+69731|7|2918;56ff022dfb47;Inteligência Artificial;conta;Macro;2;;;Seção 1.4 Inserção regional, nacional e internacional
+69731|14|1031;db92c33e5d23;Inteligência Artificial;conta;Macro;4;;;Seção 2.1.3 Áreas de atuação
+69731|16|1326;3f6bf92f3529;IA;conta;Macro;3;;;Subseção 2.2.2 Objetivos de aprendizagem (título mais próximo equivalente a Objetivos, z, 2)
+69731|19|-1;3aff8120611f;Inteligência Artificial;conta;Meso;7;;;Quadro objetivos de aprendizagem x semestre: nome do componente SCC0630
+69731|19|914;2909be81fb1b;IA;sem_topico;Meso;;;;Quadro objetivos de aprendizagem x semestre: termo na coluna descrição (decisão r)
+69731|41|867;3e332bc86eb7;Inteligência Artificial;conta;Meso;7;;;
+84288|13|538;e63572cb1d61;Inteligência Artificial;conta;Meso;7;;;Nome de matéria agrupadora na matriz (y, e)
+84288|13|564;11d8c2fbb32d;Inteligência Artificial;conta;Meso;7;;;
+84288|13|1270;4ec52156f238;Inteligência Artificial;conta;Meso;7;;;Matriz: conteúdos complementares optativos
+84288|14|847;ade0a08afb97;Inteligência Artificial;conta;Meso;8;;;Quadro de horas e % por matéria (y, e)
+84288|17|718;92871dadc845;Inteligência Artificial;conta;Meso;7;;;
+84288|18|957;c687fde3daac;Inteligência Artificial;conta;Meso;7;;;
+84288|68|1946;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+84288|69|1859;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+84288|72|113;a5bf6f16a4f7;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+84288|72|281;28a11524f4fd;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+84288|72|440;a799b2fb563b;IA;conta;Micro;13;;;Campo Objetivos da ficha
+84288|72|816;2afd940df67b;Inteligência Artificial;conta;Micro;12;ementa;;
+84288|72|841;219b47b38707;IA;descarta;;;duplicata_extenso;;
+84288|72|1044;0f64bda6d51d;IA;conta;Micro;12;ementa;;
+84288|72|1207;3a2fbff0ace6;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+84288|72|1327;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+84288|72|1455;e8e4e9570721;Artificial Intelligence;descarta;;;bibliografia;;
+84288|72|1646;9e283a65a720;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+84288|72|1745;0d4cf0bfa813;Inteligência Artificial;descarta;;;bibliografia;;
+84288|72|1851;3ed0a332f2a2;Inteligência Artificial;descarta;;;bibliografia;;
+84288|72|2005;e2c754eb0c33;Inteligência Artificial;descarta;;;bibliografia;;
+84288|72|2143;60746bf94f31;Inteligência Artificial;descarta;;;bibliografia;;
+84288|81|2787;45c351b94143;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+84288|82|252;9a84cd7fa9c9;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+84288|82|417;a799b2fb563b;IA;conta;Micro;13;;;Campo Objetivos da ficha
+84288|82|882;50dbbd6525ba;Inteligência Artificial;conta;Micro;12;ementa;;
+84288|82|907;9708d1760e4f;IA;descarta;;;duplicata_extenso;;
+84288|82|1100;0f64bda6d51d;IA;conta;Micro;12;ementa;;
+84288|82|1263;857dc932e4b8;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+84288|82|1383;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+84288|82|1511;213ec32cdb15;Artificial Intelligence;descarta;;;bibliografia;;
+84288|82|1702;c68abfe86650;Inteligência Artificial;descarta;;;bibliografia;;
+84288|82|1820;c8f3b95349ef;Inteligência Artificial;descarta;;;bibliografia;;
+84288|82|1983;a70e44fee3f0;Inteligência Artificial;descarta;;;bibliografia;;
+84288|82|2137;e98118aa48c2;Inteligência Artificial;descarta;;;bibliografia;;
+84288|82|2275;bdbb5a17f0ee;Inteligência Artificial;descarta;;;bibliografia;;
+84288|131|272;02fcda1f291d;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|131|358;d1193142d4fc;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|131|735;c5b55166b598;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|131|853;fe7e80c1958e;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|132|271;bb61b0f12ab4;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|132|391;f02950b3f0da;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|132|1125;d58072fc174d;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+84288|132|1213;2f5903229c8a;Inteligência Artificial;descarta;;;docente;;Quadro de docentes
+87960|6|1818;4f9465f132ad;AI;descarta;;;sumario;;
+87960|6|4411;8bbf685a7b02;Inteligência Artificial;descarta;;;sumario;;
+87960|6|4436;3d6a8ef32fd8;IA;descarta;;;sumario;;Sigla colada ao extenso dentro do sumário: precedência x, vale sumario
+87960|30|1463;e4b9335e201d;Inteligência Artificial;conta;Meso;7;;;
+87960|30|1487;f665ecd04427;IA;descarta;;;duplicata_extenso;;"Sigla IA na coluna Sigla, ao lado do nome Inteligência Artificial (como ""Código: IA"")"
+87960|32|130;af2b1327f035;AI;descarta;;;sigla_outro_sentido;;AI = Automação Industrial
+87960|32|233;fcb3a029191f;IA;conta;Meso;11;;;Sigla IA na coluna Pré-requisito
+87960|33|-1;ff3302197064;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+87960|34|327;f27368ab03cc;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+87960|39|155;77fa8f9896e1;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+87960|39|180;82284f39ce1e;IA;descarta;;;duplicata_extenso;;
+87960|39|924;b67fa521fa49;Inteligência Artificial;descarta;;;bibliografia;;
+87960|41|28;0acae306d167;AI;descarta;;;sigla_outro_sentido;;AI = Automação Industrial
+87960|70|7;4d5ec0b85a21;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+87960|70|32;6a19decf0a49;IA;descarta;;;duplicata_extenso;;
+87960|70|320;184bbc5ed04f;Inteligência Artificial;conta;Micro;13;;;
+87960|70|708;28257e98c3d4;Inteligência Artificial;descarta;;;bibliografia;;
+87960|70|769;beb704c9bd4c;Inteligência Artificial;descarta;;;bibliografia;;
+87960|70|1200;bfd38d771277;Inteligência Artificial;descarta;;;bibliografia;;
+87960|70|1278;0cfbb8b721d9;Inteligência Artificial;descarta;;;bibliografia;;
+87960|110|950;5d791bae116a;Inteligência Artificial;descarta;;;docente;;Quadro de docentes (área)
+87960|137|2105;00749a4f8f91;Artificial Intelligence;descarta;;;bibliografia;;
+99090|8|1148;079e0e849071;Inteligência Artificial;conta;Macro;2;;;Seção Contexto educacional / Justificativa e estudo da demanda
+99090|20|84;b96bda956f23;Inteligência Artificial;conta;Macro;6;;;Organização curricular: prosa cita norma e lista disciplinas do próprio curso (y, h)
+99090|20|3918;474d7e34de99;Inteligência Artificial;conta;Macro;6;;;"Organização curricular: prosa cita Res. CNE/CES 5/2016 e lista disciplinas do próprio curso por competência (y, h); título mais próximo fala de competências, alternativa Macro 5"
+99090|20|4004;bc0f6920de35;Inteligência Artificial;conta;Macro;6;;;Organização curricular: prosa cita norma e lista disciplinas do próprio curso (y, h)
+99090|23|1873;9c0a139264a3;Inteligência Artificial;conta;Macro;6;;;Núcleos de conteúdos: lista em prosa (decisão p)
+99090|27|934;8ece2324578b;Inteligência Artificial;conta;Meso;7;;;
+99090|28|1984;978e93772d55;Inteligência Artificial;conta;Meso;7;;;
+99090|36|2387;e405b94ef42a;Inteligência Artificial;descarta;;;bibliografia;;
+99090|61|604;86966245795b;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+99090|61|2354;38f15032fcb1;Inteligência Artificial;descarta;;;bibliografia;;
+99090|61|2427;9b4dd1f71151;Inteligência Artificial;descarta;;;bibliografia;;
+99090|61|2620;2ae1418cafbd;Inteligência Artificial;descarta;;;bibliografia;;
+99090|61|2682;923445653035;Inteligência Artificial;descarta;;;bibliografia;;
+99090|61|2745;a5805c3a9110;Artificial Intelligence;descarta;;;bibliografia;;
+99090|61|2830;85217ca03d32;Artificial Intelligence;descarta;;;bibliografia;;
+99090|61|2972;626bb50edc47;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+99090|71|2828;d9254ebf0511;Inteligência Artificial;descarta;;;bibliografia;;
+99090|76|108;104b82495b38;Inteligência Artificial;descarta;;;bibliografia;;
+99090|76|182;9b4dd1f71151;Inteligência Artificial;descarta;;;bibliografia;;
+99090|79|305;c933707cfd96;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+99090|79|371;ed35f55d98e1;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+99090|79|562;8d4efafb10ae;Inteligência Artificial;descarta;;;bibliografia;;
+99090|79|635;9b4dd1f71151;Inteligência Artificial;descarta;;;bibliografia;;
+99090|79|1310;cb929b4774e2;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+99090|83|1941;0e862a26e2fa;Inteligência Artificial;descarta;;;bibliografia;;
+99090|83|2131;9be2f0a0525d;Artificial Intelligence;descarta;;;bibliografia;;
+99090|120|861;f6527ebce378;Inteligência Artificial;descarta;;;docente;;Áreas de pesquisa dos professores em prosa na seção Corpo docente (y, o)
+99090|127|515;fdd6227ced08;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório de Otimização e Inteligência Artificial
+99090|127|588;d1cdb15dd27e;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório de Otimização e Inteligência Artificial
+99300|11|2023;9b1d5245cf56;Inteligência Artificial;conta;Macro;4;;;Seção 7 Área de Atuação
+99300|57|1165;335d1f2af3e1;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|66|3349;88e1242d1353;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|68|97;bf1520603b30;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|68|221;69568743e72b;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|71|1212;9b6b6c755569;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|71|1236;442fecff4b0e;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|71|1261;5e88c24bddb5;IA;descarta;;;termo_citado_norma;;Sigla colada ao extenso dentro do anexo que reproduz as DCN: precedência x, vale termo_citado_norma
+99300|71|1398;9374a72f6c97;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|71|1591;5501a547c12e;IA;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu, item 3.2.6
+99300|71|1975;64eb4afb2554;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante), item 3.2.6
+99300|72|597;aa5dab143d70;IA;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu, item 3.2.6
+99300|72|907;f365fa59c60f;IA;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|72|1083;1533917770d0;IA;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|72|1395;c537c5932922;IA;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+99300|73|1243;33c7c48ac7a7;Inteligência Artificial;descarta;;;termo_citado_norma;;Anexo que reproduz as Diretrizes Curriculares CEEInf/SESu (p.55 em diante)
+101316|9|1961;dc9fb4133fd1;Inteligência Artificial;descarta;;;sumario;;
+101316|27|2204;5a9821211c57;Inteligência Artificial;conta;Macro;3;;;Seção 4.2 Objetivos do curso
+101316|43|1078;f32132897eca;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo com competências do curso (y, p)
+101316|43|1234;62b4bec14f53;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo com competências do curso (y, p)
+101316|55|901;74b0e66aabc4;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo (decisão o)
+101316|55|1056;66ee6a1cf7d7;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, desdobramento em disciplinas (decisão o)
+101316|75|1423;c88bb086a983;Inteligência Artificial;conta;Micro;12;ementa;;
+101316|92|763;8b5540b09b11;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+101316|92|800;3629419f195b;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+101316|92|1205;cce43a5894f5;Inteligência Artificial;conta;Micro;12;ementa;;
+101316|92|1274;96116f85a692;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido no PDF
+101316|93|1120;b9666d32fe63;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+101316|124|668;9b38e5e90979;Inteligência Artificial;conta;Meso;7;;;Tabela da matriz (período, nº, CH, pré-requisitos)
+101316|125|870;fb320414881d;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisitos (Aprendizado de Máquina exige IA)
+101316|130|939;8467d833a7b1;Inteligência Artificial;conta;Meso;7;;;
+101316|139|612;637d18d853df;Inteligência Artificial;conta;Meso;7;;;Quadro disciplinas x competências (linhas = componentes, decisão i)
+101316|172|1342;b8c1001e80cd;Artificial Intelligence;descarta;;;bibliografia;;
+101316|172|1713;3088e95fabb1;AI;descarta;;;bibliografia;;
+101316|190|1749;5d6346f75b1b;Inteligência Artificial;descarta;;;bibliografia;;Apêndice só de bibliografia por disciplina (y, a)
+101316|191|550;7587ccd0df56;Inteligência Artificial;descarta;;;bibliografia;;
+102663|9|1547;b291ba619111;Inteligência Artificial;descarta;;;sumario;;
+102663|11|2037;eed6cd2afe4c;Inteligência Artificial;descarta;;;sumario;;
+102663|11|2115;5fc8ad250c14;Inteligência Artificial;descarta;;;sumario;;
+102663|12|562;d059443f20e2;Inteligência Artificial;descarta;;;sumario;;
+102663|26|1956;51831a588d56;Inteligência Artificial;descarta;;;sumario;;
+102663|86|-4;cf04ded232cc;Inteligência Artificial;conta;Meso;7;;;Figura 6 Trilhas de aprofundamento: nome de componente na grade (sem setas)
+102663|86|-3;f7059b4b8812;Inteligência Artificial;conta;Meso;7;;;Figura 6 trilhas: nome de componente na grade
+102663|86|-2;7e28cac6dc18;Inteligência Artificial;conta;Meso;7;;;Figura 6 trilhas: nome de componente na grade
+102663|86|-1;2371560e0c42;Inteligência Artificial;conta;Meso;7;;;Nome da trilha como rótulo (ponto fino 4)
+102663|107|992;181fb8a0acca;Inteligência Artificial;conta;Micro;12;ementa;;
+102663|113|1412;ff08ec59c30e;Inteligência Artificial;conta;Meso;8;;;Título do quadro-resumo de optativas da trilha com CH (y, k)
+102663|113|1446;dc3d895a727b;Inteligência Artificial;conta;Meso;8;;;Cabeçalho do quadro-resumo de optativas da trilha com CH (y, k)
+102663|113|1540;5320cebcb330;Inteligência Artificial;conta;Meso;7;;;Nome do componente no quadro-resumo de optativas (y, k)
+102663|113|1576;16987df7e0e4;Inteligência Artificial;conta;Meso;7;;;Nome do componente no quadro-resumo de optativas (y, k)
+102663|113|1982;5b10ad97594e;Inteligência Artificial;conta;Meso;7;;;Nome do componente no quadro-resumo de optativas (y, k)
+102663|120|683;3767bfcb4f5e;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+102663|129|66;29e269be2306;Inteligência Artificial;conta;Macro;6;;;Título de seção do ementário (decisão v)
+102663|129|140;e92aaa89c2ff;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Título do quadro da ficha: Dados da unidade curricular ICSI50
+102663|129|192;e560f7e2ab38;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+102663|129|233;b587308a56df;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|129|463;181fb8a0acca;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido no PDF
+102663|129|779;ced572479746;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+102663|129|843;4dbfb0a633a8;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+102663|129|896;0317355ddcb9;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|129|1184;36855d8d85fa;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido no PDF
+102663|129|1437;a3871e374424;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|130|171;7a22c7a8ec07;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|130|839;88de954b7d01;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|130|1510;c3ec3173daa4;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|131|189;2ae071693ea3;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|131|741;b56cc209ca4e;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|131|1431;1814d19b1e25;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|132|211;3e79082981b7;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|132|884;5f7cb6c3d9ec;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|132|1666;2a04178d2825;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|133|98;bcdfcc2e080d;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+102663|133|162;1178e6a20a38;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+102663|133|215;594456b12507;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Trilha do cabeçalho da ficha
+102663|133|755;063a17d28b54;IA;conta;Micro;12;ementa;;
+102663|163|2246;a646a522dd78;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa (Tecnopolíticas da Sociedade Contemporânea)
+102663|268|829;a38db05d3601;Artificial Intelligence;conta;Micro;12;ementa;;Ementário em inglês (syllabus), repetição
+104270|69|883;aaf7ecb84489;Inteligência Artificial;conta;Meso;7;;;
+104270|79|344;60f439a7563a;Inteligência Artificial;conta;Meso;7;;;Tabela de componentes com créditos e CH
+104270|97|631;2d9cbf7b57cc;Inteligência Artificial;conta;Meso;7;;;Tabela de componentes por semestre
+104270|103|1744;c2d2f4e4a8c6;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência (cursado até 2022/2 x currículo 2023)
+104270|254|57;c1ace0c25f8e;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Componente Curricular: nome da disciplina no cabeçalho da ficha
+104270|254|399;af9365ed859d;Inteligência Artificial;conta;Micro;12;ementa;;
+104270|254|569;250713050d59;Inteligência Artificial;conta;Micro;12;ementa;;
+104270|254|649;d38e7c10fa60;Inteligência Artificial;conta;Micro;13;;;
+104270|254|773;6dc4d1deb8c3;Inteligência Artificial;conta;Micro;13;;;
+104270|254|1109;f959e43b5219;Inteligência Artificial;conta;Micro;14;;;
+104270|255|191;db5da84e8f02;Inteligência Artificial;conta;Micro;14;;;
+104270|255|536;d595c6003ec8;Inteligência Artificial;descarta;;;bibliografia;;
+104270|255|1210;72ff201e089c;Artificial Intelligence;descarta;;;bibliografia;;
+104270|255|1319;725d3ae90886;Artificial Intelligence;descarta;;;bibliografia;;
+104270|260|231;0dec4aa61f4d;AI;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+104270|260|1055;62f889c5fb60;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+104270|348|985;bc1755f4d4d1;Inteligência Artificial;descarta;;;docente;;Corpo docente: componentes que o docente ministra
+104270|349|1469;e983ac513ace;Inteligência Artificial;descarta;;;docente;;Corpo docente: componentes que o docente ministra
+104270|417|575;811275cf06d8;Inteligência Artificial;conta;Meso;7;;;Tabela de componentes (linhas = componentes)
+105074|18|630;b90f934409dd;Inteligência Artificial;descarta;;;termo_citado_norma;;Trecho copiado da Portaria INEP 486/2017 (conteúdos do Enade)
+105074|33|1578;d61d9245b612;Inteligência Artificial;conta;Macro;6;;;Prosa da organização curricular listando disciplinas
+105074|35|277;0b5b55a4ed92;Inteligência Artificial;conta;Meso;7;;;
+105074|38|722;f3cc8b40eb09;Inteligência Artificial;conta;Meso;7;;;
+105074|40|1032;dce0b7ee8f91;Inteligência Artificial;conta;Meso;7;;;
+105074|77|1361;fa08f5723e1e;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+105074|78|31;7a0d08e1764a;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+105074|78|56;db6e512ff8c7;IA;descarta;;;duplicata_extenso;;
+105074|78|141;296ac1dfc373;IA;conta;Micro;12;ementa;;Campo Ementa da ficha
+105074|78|293;5cf1bc7734c9;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+105074|78|590;ce3b397c6a6a;Inteligência Artificial;descarta;;;bibliografia;;
+105074|78|656;2f6a38dd76a0;Inteligência Artificial;descarta;;;bibliografia;;
+105074|78|776;b057ac9b3425;Inteligência Artificial;descarta;;;bibliografia;;
+105074|78|958;16583f1265f0;Inteligência Artificial;descarta;;;bibliografia;;
+105074|78|1050;8dfe67684383;Inteligência Artificial;descarta;;;bibliografia;;
+105074|78|1176;805b796b76fe;Inteligência Artificial;descarta;;;bibliografia;;
+105074|85|489;e8ed57358610;Inteligência Artificial;descarta;;;bibliografia;;
+105074|85|795;b057ac9b3425;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+105074|85|985;b057ac9b3425;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+105074|93|303;b03ec7d04c04;Artificial Intelligence;descarta;;;bibliografia;;
+105074|119|1236;0024a1d6da2a;Inteligência Artificial;descarta;;;infraestrutura;;Lista de laboratórios
+112192|47|1687;e4792a04a3a2;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+112192|107|229;00e1779f7d5f;IA;conta;Micro;12;ementa;;
+112192|107|861;13d041d40b74;Inteligência Artificial;conta;Micro;13;;;Campo OBJETIVO da ficha
+112192|107|1115;500150c96d7f;IA;conta;Micro;15;;;PROGRAMA da ficha
+112192|107|2599;ee5195511a3c;Inteligência Artificial;descarta;;;bibliografia;;
+112192|108|133;ff0a55d42364;Inteligência Artificial;descarta;;;bibliografia;;
+112192|108|316;a7b9f51a0b0c;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+115616|38|1726;2937c250e8e5;Inteligência Artificial;conta;Macro;2;;;Seção 4.1 Contextualização nacional, regional e local
+115616|48|1751;036f0f1bb210;Inteligência Artificial;conta;Macro;4;;;Seção 4.6 Perfil do Egresso
+115616|90|243;6ba2ae70200d;Inteligência Artificial;conta;Micro;12;ementa;;
+116188|9|716;493a64732503;Inteligência Artificial;conta;Meso;7;;;
+116188|9|808;d95ecc91413c;Inteligência Artificial;conta;Meso;7;;;
+116188|10|809;3e81593d6ed5;Inteligência Artificial;conta;Meso;7;;;
+116188|12|2003;ded6dd9bf6d4;Inteligência Artificial;conta;Meso;7;;;
+116188|13|-2;d12f4201a64c;Inteligência Artificial;conta;Meso;7;;;Anexo III, grupos de optativas
+116188|13|-1;3208022fa1c3;Inteligência Artificial;conta;Meso;7;;;Rótulo de perfil (ponto fino 4)
+116188|14|-1;cfae2cea1313;Inteligência Artificial;conta;Meso;7;;;Anexo III, componentes optativos
+116188|18|129;89534144a36f;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+116188|18|173;702153d3b239;Inteligência Artificial;conta;Micro;12;ementa;;
+116188|21|2788;d09dc9a00d76;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+116188|26|112;5ca6296dc95b;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+116968|42|3226;7e2e026bf5c5;Inteligência Artificial;conta;Macro;6;;;Quadro 6 Eixo Sistemas Inteligentes, objetivos do eixo (decisão o)
+116968|43|256;25a1b27ab3f6;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo (decisão o)
+116968|43|426;315c4c536411;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo (decisão o)
+116968|43|749;1385bfbf517d;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, ementa do eixo (decisão o)
+116968|43|818;96116f85a692;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, ementa do eixo (decisão o)
+116968|43|1066;701d4d145589;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, ementa do eixo (decisão o)
+116968|43|2448;a219aeb9a159;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, desdobramento em disciplinas (decisão o)
+116968|43|2474;9de005b5e730;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, desdobramento em disciplinas (decisão o)
+116968|71|1681;45f472380e16;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+116968|71|2081;8b6997003476;Inteligência Artificial;conta;Micro;12;ementa;;
+116968|71|2151;e818d4a3f933;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+116968|71|2400;8e0553401d0a;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+116968|73|1819;6cde6b51f3a1;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+116968|73|2163;cc6ffc7dc76e;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+116968|75|1933;591a9975903e;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+116968|76|560;39bfc75bd450;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo PRERREQUISITOS da ficha de Inteligência Computacional
+116968|80|1175;49fc04f3ab75;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+116968|86|473;f55e3b286a2f;Inteligência Artificial;conta;Meso;7;;;
+116968|86|747;33001cc0082c;Inteligência Artificial;conta;Meso;7;;;
+116968|89|697;b91c81fe13e4;Inteligência Artificial;conta;Meso;7;;;
+116968|89|1231;7dd3d1c90c3d;Inteligência Artificial;conta;Meso;7;;;
+116968|93|420;073de1042339;Inteligência Artificial;conta;Meso;7;;;Quadro disciplinas x competências (linhas = componentes)
+116968|93|806;54e7d0b41e20;Inteligência Artificial;conta;Meso;7;;;Quadro disciplinas x competências (linhas = componentes)
+117082|24|1429;af16be3cb6fa;Inteligência Artificial;conta;Meso;7;;;
+117082|25|286;b59b81789eb8;Inteligência Artificial;conta;Meso;7;;;
+117082|25|934;095436d9bdb3;Inteligência Artificial;conta;Meso;7;;;
+117082|33|769;06c656b86187;Inteligência Artificial;descarta;;;infraestrutura;;Lista de laboratórios (LSI)
+117082|56|294;a5320f8c0040;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+117082|56|930;a5320f8c0040;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+117082|56|1432;989050292aa9;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+117082|60|252;6633434371d7;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+117082|72|414;eb19f39db791;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+117082|72|948;e2eef7cef1d8;IA;conta;Micro;12;ementa;;
+117082|72|975;98191c53ff7d;IA;conta;Micro;12;ementa;;
+117082|76|1911;3a2852bc1fac;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+117082|76|2089;0ede8076fa2b;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+117082|79|645;1fa190401ae8;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+117082|79|834;f6ca6b1fd678;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+117082|79|2080;93455c366cda;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+121099|29|285;ced749c39d1c;Inteligência Artificial;conta;Macro;1;;;"Seção Fundamentos didático-pedagógicos e metodológicos (título manda; lista de disciplinas do núcleo)"
+121099|43|227;70c899acf400;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório SMART e Inteligência Artificial
+121099|50|1514;582c4755595c;Inteligência Artificial;conta;Meso;7;;;
+121099|53|611;ac14cf71857d;Inteligência Artificial;conta;Meso;7;;;
+121099|114|37;ff439b296c27;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+121099|114|625;f28e919df0ea;Inteligência Artificial;conta;Micro;13;;;
+121099|114|783;5f9b39708d80;Inteligência Artificial;descarta;;;bibliografia;;
+121099|114|908;4568c8238603;Inteligência Artificial;descarta;;;bibliografia;;
+121099|114|983;27a9a8eff82d;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia básica
+121099|114|1122;228e4b1ca7da;Artificial Intelligence;descarta;;;bibliografia;;
+121099|114|1651;f11a059b4c7d;Inteligência Artificial;descarta;;;bibliografia;;
+121099|114|1734;15ed5234a768;Artificial Intelligence;descarta;;;bibliografia;;
+121099|132|1107;a47d987b2ba7;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+121099|132|1220;f408b6a076b2;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+121624|18|329;993e01ee5487;Inteligência Artificial;conta;Macro;4;;;Seção 3 Perfil do egresso e áreas de atuação (competências específicas sem subtítulo próprio, z, 2)
+121624|33|1447;0742e58b320c;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência (código antigo x novo)
+121624|36|760;71f9da9fb9d9;Inteligência Artificial;descarta;;;equivalencia;;"Lista ""Disciplinas DCG do currículo 2009 sem equivalência... devem ser aproveitadas como DCG no currículo 2023"" (y, c): corrigido de Meso 7 para equivalência"
+121624|173|1333;72d2f9e8bb8e;Inteligência Artificial;descarta;;;bibliografia;;
+121679|44|2498;f19366f1ff03;Inteligência Artificial;conta;Meso;7;;;
+121679|46|-1;b0b286b7e676;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+121679|140|128;3c9b9f3a4e1a;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+121679|140|193;e1a74abc9098;Artificial Intelligence;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+121679|140|2681;8472190177cc;Inteligência Artificial;descarta;;;bibliografia;;
+121679|140|2760;8235aaa69716;Inteligência Artificial;descarta;;;bibliografia;;
+121679|140|2836;5ad54b87abb7;Inteligência Artificial;descarta;;;bibliografia;;
+121679|141|281;f7e192dc0314;Inteligência Artificial;descarta;;;bibliografia;;
+121679|141|349;54e10ba329f8;Inteligência Artificial;descarta;;;bibliografia;;
+121679|141|462;0d21e7ff19d3;Inteligência Artificial;descarta;;;bibliografia;;
+121679|161|1685;44169e0badcc;Artificial Intelligence;descarta;;;bibliografia;;
+121679|162|1876;5bd38773b2e7;AI;descarta;;;bibliografia;;
+121679|182|1652;e36788701535;Inteligência Artificial;conta;Micro;15;;;Conteúdo programático, item 5 Tópicos especiais em jogos
+121679|183|1402;aaba93386896;IA;conta;Micro;15;;;
+121679|190|2517;b6104f44c63a;Inteligência Artificial;descarta;;;bibliografia;;
+121679|192|1460;81f883d352bd;Inteligência Artificial;descarta;;;bibliografia;;
+121679|192|1583;6e1902aff665;Inteligência Artificial;descarta;;;bibliografia;;
+121679|192|1887;18be8e185a6e;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia
+121679|196|1859;2891f4847d9d;Inteligência Artificial;descarta;;;bibliografia;;
+121679|196|1938;6aa2adc0f544;Inteligência Artificial;descarta;;;bibliografia;;
+121679|196|2034;5e1d1bfd1b17;Artificial Intelligence;descarta;;;bibliografia;;
+121679|196|2231;943320e6bdc8;Inteligência Artificial;descarta;;;bibliografia;;
+121679|196|2324;2b66247f4cd7;Inteligência Artificial;descarta;;;bibliografia;;
+121679|196|2392;54e10ba329f8;Inteligência Artificial;descarta;;;bibliografia;;
+121679|196|2505;0d21e7ff19d3;Inteligência Artificial;descarta;;;bibliografia;;
+121679|205|1357;88849f494a0a;IA;descarta;;;duplicata_extenso;;
+121679|205|1361;3d9aba649b43;Inteligência Artificial;conta;Micro;15;;;Programa/conteúdo programático da ficha
+121679|257|1326;e26483901549;Inteligência Artificial;descarta;;;bibliografia;;
+121679|257|1396;b7ce91d39a11;Inteligência Artificial;descarta;;;bibliografia;;
+121679|258|133;0cfa6f5b2d6a;Inteligência Artificial;descarta;;;bibliografia;;
+121679|258|200;8177622df8f4;Inteligência Artificial;descarta;;;bibliografia;;
+121679|283|1797;8fe62f11a761;Inteligência Artificial;conta;Micro;15;;;
+121679|375|1035;84c53e901f5a;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência de códigos (grade antiga x nova)
+122204|17|1413;620d3c1c9cf6;Inteligência Artificial;conta;Macro;3;;;Seção 2.4.1 Objetivo geral do curso
+122204|18|3689;acb3715b3b41;Inteligência Artificial;conta;Macro;4;;;Seção 2.5.2 Áreas de atuação do egresso
+122204|19|206;ad3f31daf00b;Inteligência Artificial;conta;Macro;4;;;Fim da seção 2.5.2 Áreas de atuação do egresso
+122204|27|2682;15d27c028540;Inteligência Artificial;conta;Macro;1;;;Educação das relações étnico-raciais (políticas institucionais, F3)
+122204|45|766;07b772edda5a;Inteligência Artificial;conta;Meso;7;;;
+122204|45|2499;f28ba7b45969;Inteligência Artificial;conta;Meso;7;;;
+122204|45|2954;b72015b07060;Inteligência Artificial;conta;Meso;7;;;
+122204|46|503;b480bd2cfa5b;Inteligência Artificial;conta;Meso;7;;;
+122204|47|506;dfbf5dd585a0;Inteligência Artificial;descarta;;;equivalencia;;
+122204|47|551;abd686ca7609;Inteligência Artificial;descarta;;;equivalencia;;
+122204|59|1958;acb3715b3b41;Inteligência Artificial;conta;Macro;6;;;Regulamento de estágio (decisão s)
+1102175|16|350;8633a007931e;Inteligência Artificial;conta;Meso;7;;;
+1102175|16|475;fd2be815e251;Inteligência Artificial;conta;Meso;7;;;
+1102175|22|206;4b94a3a40e6b;Inteligência Artificial;descarta;;;equivalencia;;Seção 9 Regras de transição e equivalência de disciplinas
+1102175|22|238;e94715992f62;Inteligência Artificial;descarta;;;equivalencia;;Seção 9 Regras de transição e equivalência de disciplinas
+1102175|22|273;5883ae9ba219;Inteligência Artificial;descarta;;;equivalencia;;Seção 9 Regras de transição e equivalência de disciplinas
+1102175|22|316;ccb1d79e8d42;Inteligência Artificial;descarta;;;equivalencia;;Seção 9 Regras de transição e equivalência de disciplinas
+1102175|51|1679;551ac01e5b25;Artificial Intelligence;descarta;;;bibliografia;;
+1102175|78|1799;8d96981adf99;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1102175|79|177;c5fc6bd10abb;Inteligência Artificial;conta;Micro;13;;;
+1102175|79|277;da852afecff0;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1102175|79|373;ebb553902eee;Inteligência Artificial;conta;Micro;12;ementa;;
+1102175|79|398;c99042a5505b;IA;descarta;;;duplicata_extenso;;
+1102175|79|1144;077619ff575d;IA;conta;Micro;15;;;Campo Programa da ficha
+1102175|79|1558;6f5300aa2730;Artificial Intelligence;descarta;;;bibliografia;;
+1102175|79|1777;43301de19038;Inteligência Artificial;descarta;;;bibliografia;;
+1102175|79|1861;35f6a10e3717;Inteligência Artificial;descarta;;;bibliografia;;
+1102175|79|1944;5c6a2251858d;Inteligência Artificial;descarta;;;bibliografia;;
+1102175|79|2052;1e6893fe56ca;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1102175|80|179;a21de53fc95e;Inteligência Artificial;conta;Micro;13;;;
+1102175|80|246;7d34eb1c4f85;Inteligência Artificial;conta;Micro;13;;;
+1102175|80|334;dc23e6b395ad;IA;conta;Micro;13;;;Campo Objetivos da ficha
+1102175|80|1572;32f81c74430a;Artificial Intelligence;descarta;;;bibliografia;;
+1102175|80|1758;5dfac5076051;Artificial Intelligence;descarta;;;bibliografia;;
+1102764|23|740;7a773ee4db3d;Inteligência Artificial;descarta;;;linha_pesquisa;;Seção 3.5: linhas de pesquisa do departamento
+1102764|35|1500;d41d31846fe0;Inteligência Artificial;conta;Meso;7;;;
+1102764|40|814;1d94cc285c1a;Inteligência Artificial;conta;Meso;7;;;
+1102764|69|34;2ce4265262e3;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1102764|69|77;d446fde06da2;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1102764|69|520;e387124a238a;IA;conta;Micro;12;ementa;;
+1102764|69|537;e4dfa8b18d79;IA;conta;Micro;12;ementa;;
+1102764|113|523;b60b15b3a079;Inteligência Artificial;conta;Meso;7;;;Quadro 100 conhecimentos estruturantes x temas de estudo (linhas = componentes, decisão i)
+1102764|113|573;910b69d7caaf;IA;sem_topico;Meso;;;;Quadro 100: termo na coluna de temas de estudo (decisão i)
+1102764|113|590;4603849c2f4d;IA;sem_topico;Meso;;;;Quadro 100: termo na coluna de temas de estudo (decisão i)
+1102764|123|443;425c06102011;Inteligência Artificial;sem_topico;Meso;;;;Quadro 110: termo na coluna de resultados de aprendizagem (decisão i)
+1102764|123|563;58101101741c;Inteligência Artificial;conta;Meso;7;;;Quadro 110: nome do componente (decisão i)
+1102764|123|705;27eeff87cbbc;Inteligência Artificial;sem_topico;Meso;;;;Quadro 110: termo na coluna de resultados de aprendizagem (decisão i)
+1120244|27|269;b9d7be344c49;Inteligência Artificial;conta;Meso;7;;;
+1120244|54|305;bc2f6be1857e;Inteligência Artificial;conta;Macro;6;;;Catálogo de disciplinas por eixo sem tabela (z, 4)
+1120244|115|586;bab5f45481bc;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1120244|116|36;6851ac87c96b;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|116|104;fe372b29510d;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|116|257;3cce98172dc7;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|116|350;fa1db58fb633;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|116|424;030214ec4976;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|116|503;17863ed5dc61;Artificial Intelligence;descarta;;;bibliografia;;
+1120244|116|568;1508e6db8020;Inteligência Artificial;descarta;;;bibliografia;;
+1120244|180|648;4ea735b724fd;Artificial Intelligence;descarta;;;bibliografia;;Lista de referências sob o rótulo Conteúdo da ficha (é bibliografia)
+1120244|180|790;ebd8f3494d83;Artificial Intelligence;descarta;;;bibliografia;;Lista de referências sob o rótulo Conteúdo da ficha (é bibliografia)
+1120244|180|844;4815945e7e35;Artificial Intelligence;descarta;;;bibliografia;;Lista de referências sob o rótulo Conteúdo da ficha (é bibliografia)
+1120244|180|924;b8378799fcdc;Artificial Intelligence;descarta;;;bibliografia;;Lista de referências sob o rótulo Conteúdo da ficha (é bibliografia)
+1120244|180|1061;1a5b3d2a7e9c;Artificial Intelligence;descarta;;;bibliografia;;Lista de referências sob o rótulo Conteúdo da ficha (é bibliografia)
+1127164|32|1443;84c8302991b1;Inteligência Artificial;conta;Meso;7;;;
+1127164|35|374;88d4ddf942b6;Inteligência Artificial;conta;Meso;7;;;
+1127164|38|-1;d9907ebba553;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+1127164|40|-1;372f13b7eba3;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+1127164|52|2938;5cb4151a54af;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1127164|53|633;6b4749af2f23;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1127164|62|1130;7652ccfb6a39;Artificial Intelligence;descarta;;;bibliografia;;
+1127164|62|1851;b249fecb0ab3;Artificial Intelligence;descarta;;;bibliografia;;
+1127164|63|86;4bc3da3cc757;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1127164|66|332;08a1b02f9ac0;Artificial Intelligence;descarta;;;bibliografia;;
+1127164|69|94;4d23243d941c;Inteligência Artificial;conta;Micro;12;ementa;;
+1127164|69|357;db5cc35114b1;Inteligência Artificial;descarta;;;bibliografia;;
+1128343|5|3097;29141fe6b497;Inteligência Artificial;conta;Macro;1;;;Seção 3.2 Histórico da unidade (decisão l)
+1128343|25|942;9077318aedc7;Inteligência Artificial;conta;Meso;7;;;
+1128343|27|1178;da4607ebf6ce;Inteligência Artificial;conta;Meso;7;;;
+1128343|27|1218;a41e247c0f8a;Inteligência Artificial;conta;Meso;7;;;
+1128343|27|1259;45d5ee651b40;Inteligência Artificial;conta;Meso;7;;;
+1128343|30|1273;1d88ec3f227f;Inteligência Artificial;conta;Meso;7;;;
+1128343|33|924;301fa990215f;Inteligência Artificial;conta;Meso;7;;;Tabela disciplinas x pré-requisitos por semestre, coluna Disciplinas
+1128343|35|808;2d4b8e28202e;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisitos (Sistemas de Apoio à Decisão exige IA)
+1128343|36|293;651e17715403;Inteligência Artificial;conta;Meso;7;;;
+1128343|36|331;d94230f97deb;Inteligência Artificial;conta;Meso;7;;;
+1128343|36|370;c8479cd76e62;Inteligência Artificial;conta;Meso;7;;;
+1128343|37|2014;7bf8f03b8b93;Inteligência Artificial;descarta;;;equivalencia;;7.3 Tabela de equivalência das disciplinas
+1128343|37|2041;0387bb0b5c95;Inteligência Artificial;descarta;;;equivalencia;;7.3 Tabela de equivalência das disciplinas
+1128343|57|3226;1ae2dc2047f4;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1128343|57|3263;97adc5d214ac;IA;conta;Micro;12;ementa;;Ementário: texto da ementa, não é bibliografia
+1128343|57|3299;a48b9bd2f6a0;IA;conta;Micro;12;ementa;;Ementário: texto da ementa, não é bibliografia
+1128343|57|3753;7bc5c118dc08;IA;conta;Micro;12;ementa;;
+1128343|57|3870;f76b4df04595;Inteligência Artificial;descarta;;;bibliografia;;
+1128343|58|386;821f7bd9309d;Artificial Intelligence;descarta;;;bibliografia;;
+1128343|61|803;385b2c149c31;Inteligência Artificial;conta;Micro;12;ementa;;Ementa (técnicas de IA em jogos digitais 3D), não é bibliografia
+1128343|61|904;26e1a3a9eecd;Artificial Intelligence;descarta;;;bibliografia;;
+1128343|74|3556;2eee45a0dfae;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+1128343|79|1651;54942c430043;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1128343|79|1758;26f5116d5056;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1128343|79|1866;9d8d6d62fc4f;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1128343|92|1121;5a7bcd2991fc;Inteligência Artificial;descarta;;;infraestrutura;;Lista de laboratórios
+1133610|27|79;b90f934409dd;Inteligência Artificial;conta;Macro;6;;;Seção 2.5 Conteúdos curriculares: lista de conteúdos do curso
+1133610|30|1515;1de74956ac99;Inteligência Artificial;conta;Meso;7;;;Tabela de vagas por disciplina (linhas = componentes)
+1133610|31|288;b31046544a6c;Inteligência Artificial;conta;Meso;7;;;Tabela de vagas por disciplina (linhas = componentes)
+1133610|34|1887;73e4e23149ce;Inteligência Artificial;conta;Meso;9;;;Fluxograma com setas (decisão h)
+1133610|34|2000;f1cf74080eb8;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+1133610|39|405;c3d8a5252147;Inteligência Artificial;conta;Meso;7;;;
+1133610|40|951;e2ee465ac8a2;Inteligência Artificial;conta;Meso;7;;;
+1133610|40|989;f84163be527e;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-Requisitos (DEC0015 exige DEC0014)
+1133610|93|44;963d9ee99e2c;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|93|121;ab9d9aafcec1;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|93|293;de9866b6fe7c;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|93|377;93fc981ae7f0;Inteligência Artificial;conta;Micro;12;ementa;;
+1133610|93|766;1eb2ac8e66a2;Inteligência Artificial;conta;Micro;13;;;
+1133610|93|855;1f562d95629c;Inteligência Artificial;conta;Micro;13;;;
+1133610|93|880;ef32602f77ec;IA;descarta;;;duplicata_extenso;;
+1133610|93|1106;095c54dd34fd;IA;conta;Micro;13;;;
+1133610|93|1368;d9cd641dd3d4;Inteligência Artificial;conta;Micro;14;;;
+1133610|93|1517;a25c10cf6383;IA;conta;Micro;14;;;
+1133610|93|1613;e9d7138b3461;IA;conta;Micro;14;;;
+1133610|93|1828;f3637a7b32e9;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|93|1935;e2038eceabda;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|93|2085;ef270fa5f25f;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|94|52;2ffccbd81246;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|94|161;b3ae0c806f37;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|94|266;904dce320d97;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|120|83;ca72e56f1bc0;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|120|165;23463591bd62;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|120|342;4bf4181ebd62;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1133610|120|454;88f7c60bd38a;Inteligência Artificial;conta;Micro;12;ementa;;
+1133610|120|479;66536891532a;IA;descarta;;;duplicata_extenso;;
+1133610|120|542;205cadcd0d80;IA;conta;Micro;12;ementa;;
+1133610|120|768;597cc976facf;IA;conta;Micro;13;;;
+1133610|120|820;c704f8484e61;Inteligência Artificial;conta;Micro;14;;;
+1133610|120|937;f960961d317a;IA;conta;Micro;14;;;Campo IV Competências da ficha
+1133610|120|1084;e02f4aace01c;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|120|1153;2ded599a48e1;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|120|1380;33e98e7363e2;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|120|1608;e2038eceabda;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|120|1740;966e55e09b2b;Inteligência Artificial;descarta;;;bibliografia;;
+1133610|170|1191;7a972b2d63f5;Inteligência Artificial;conta;Meso;7;;;Tabela 6.2 Pré-requisitos (linhas = componentes)
+1133610|170|2071;d1522597c19f;Inteligência Artificial;conta;Meso;7;;;Tabela 6.2 Pré-requisitos (linhas = componentes)
+1133610|170|2103;c1cd06dababf;Inteligência Artificial;conta;Meso;11;;;Tabela 6.2: termo na coluna Pré-Requisitos
+1133610|174|765;a59756c278e4;Inteligência Artificial;descarta;;;equivalencia;;Tabela 6.4 Equivalências entre disciplinas
+1133610|174|1493;0da39761012d;Inteligência Artificial;descarta;;;equivalencia;;Tabela 6.4 Equivalências entre disciplinas
+1139973|17|-1;2182b00f421d;Inteligência Artificial;conta;Meso;7;;;Matriz Curricular 2013 em grade
+1139973|20|726;4891b56011e5;Inteligência Artificial;conta;Meso;7;;;
+1139973|23|1132;dd8c201ccbf2;Inteligência Artificial;conta;Meso;7;;;
+1139973|24|499;d597a1c6dbd5;Inteligência Artificial;conta;Meso;7;;;
+1139973|37|621;4a974d6b98d4;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1139973|37|694;68ad1199cb74;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1139973|37|993;f4daa92da1eb;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1139973|37|1120;8e00329a00ff;Inteligência Artificial;descarta;;;bibliografia;;
+1139973|37|1204;4b0b361a1d05;Inteligência Artificial;descarta;;;bibliografia;;
+1139973|44|1502;8b205de0f2f6;AI;descarta;;;bibliografia;;
+1139973|56|493;e73b2676c4da;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1139973|56|556;82c7682ff948;Inteligência Artificial;conta;Micro;12;ementa;;
+1139973|56|992;afb3ecbf4b00;Artificial Intelligence;descarta;;;bibliografia;;
+1139973|56|1102;ceac22a460e0;Artificial Intelligence;descarta;;;bibliografia;;
+1139973|56|1157;96e3075dc31b;Inteligência Artificial;descarta;;;bibliografia;;
+1139973|56|1304;0774f5422e50;Inteligência Artificial;descarta;;;bibliografia;;
+1139973|56|1391;38934a6704fc;Inteligência Artificial;descarta;;;bibliografia;;
+1139973|61|1896;8b205de0f2f6;AI;descarta;;;bibliografia;;
+1139973|65|199;4245021a6e75;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1139973|65|415;49830298e27f;Inteligência Artificial;descarta;;;bibliografia;;Campo Bibliografia sem obra citada (y, a)
+1187249|12|1940;5400064a27a4;Inteligência Artificial;descarta;;;linha_pesquisa;;Lista de linhas de pesquisa da pós-graduação (y, i)
+1187249|14|616;90bfb52bb8bf;Inteligência Artificial;conta;Macro;6;;;Seção Alterações propostas em relação ao PPC vigente (estrutura do currículo)
+1187249|14|1466;fb21e193790a;Inteligência Artificial;conta;Macro;6;;;Seção Alterações propostas em relação ao PPC vigente (estrutura do currículo)
+1187249|26|1058;5eb013615c58;Inteligência Artificial;conta;Meso;7;;;
+1187249|29|764;9745ce214bb3;Inteligência Artificial;conta;Meso;7;;;
+1187249|33|-1;2416849714ba;Inteligência Artificial;conta;Meso;9;;;Representação gráfica do currículo por período, sem título Matriz Curricular (ponto fino 1)
+1187249|34|1296;9347b20ac04b;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|34|1526;922757821630;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|35|495;059b314ad47c;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|35|926;3ecc53e3ba9f;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|36|258;1c4cc1cc768f;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|36|1061;846cec239dd7;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|36|1085;1e6fac9f67fa;Inteligência Artificial;sem_topico;Meso;;;;Quadro conteúdos x disciplinas: termo na coluna de conteúdo (decisão r)
+1187249|36|1150;d8b680f871cb;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|36|1361;1e1101a54019;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|37|1125;cdac4539f7d8;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|37|1606;7fa274503a5e;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|39|1062;1c4cc1cc768f;Inteligência Artificial;conta;Meso;7;;;Quadro conteúdos x disciplinas (decisão r)
+1187249|46|1285;f17913ab1b12;Inteligência Artificial;descarta;;;equivalencia;;Quadro 15 de equivalências entre componentes
+1187249|49|718;72e0e7dd7167;Inteligência Artificial;descarta;;;equivalencia;;Quadro 16 de equivalências entre componentes
+1187249|49|799;faec76a0fb69;Inteligência Artificial;descarta;;;equivalencia;;Quadro 16 de equivalências entre componentes
+1188509|20|723;5884c1f1e716;Inteligência Artificial;conta;Macro;3;;;Seção 5.1 Objetivo Geral, frase sobre a matriz (decisão k)
+1188509|26|2426;1ab541064a31;Inteligência Artificial;conta;Macro;4;;;Subseção Temas abordados na formação dentro do Perfil do egresso (y, g)
+1188509|26|2518;b67b61912596;Inteligência Artificial;conta;Macro;4;;;Subseção Temas abordados na formação dentro do Perfil do egresso (y, g)
+1188509|26|2747;0032d5fcd4ec;Inteligência Artificial;conta;Macro;4;;;Seção 8.6 Áreas de Atuação (perfil do egresso)
+1188509|33|159;435786146692;Inteligência Artificial;conta;Macro;6;;;Regras do Trabalho Final/TCC (áreas de revistas para artigo)
+1188509|35|952;eae8ced3d74e;Inteligência Artificial;conta;Meso;7;;;
+1188509|36|2217;eae8ced3d74e;Inteligência Artificial;conta;Meso;7;;;
+1188509|83|486;eae8ced3d74e;Inteligência Artificial;conta;Meso;7;;;
+1188509|90|159;cc132480d661;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1188509|90|301;bb8b796c3ee1;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha ENC-41
+1188509|90|327;e4e7c2e4abc2;IA;descarta;;;duplicata_extenso;;
+1188509|90|584;3a997e654d0b;Inteligência Artificial;conta;Micro;15;;;
+1188509|91|999;e37842aa9e23;Inteligência Artificial;descarta;;;bibliografia;;
+1188509|91|1227;730121e7eecb;Inteligência Artificial;descarta;;;bibliografia;;
+1188509|91|1284;0ae0b9a3f4f9;Inteligência Artificial;descarta;;;bibliografia;;
+1188509|91|1348;b7edee4944e8;Inteligência Artificial;descarta;;;bibliografia;;
+1188509|113|1192;209db9e31a7b;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência com o PPC anterior
+1188509|113|1227;24414872ae5b;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência com o PPC anterior
+1188509|115|1369;a215b6ca51d2;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência com outro curso da instituição (y, c)
+1188509|118|398;a215b6ca51d2;Inteligência Artificial;descarta;;;equivalencia;;Tabela de equivalência com outro curso da instituição (y, c)
+1188509|136|2059;6811605f4854;Inteligência Artificial;sem_topico;Macro;;;;Seção 17 Planos de melhoria do curso (decisão s)
+1188509|136|2429;96f13effe081;IA;sem_topico;Macro;;;;Seção 17 Planos de melhoria do curso (decisão s)
+1188509|136|2483;c4aa6996cddf;IA;sem_topico;Macro;;;;Seção 17 Planos de melhoria do curso (decisão s)
+1191042|8|1330;7c59cb167ef2;Inteligência Artificial;descarta;;;sumario;;
+1191042|10|1348;68fc4eb0b2f9;Inteligência Artificial;descarta;;;sumario;;
+1191042|31|2234;81e76976ff07;Inteligência Artificial;conta;Macro;4;;;Seção 6 Perfil do egresso
+1191042|41|695;48284a77b0e5;Inteligência Artificial;conta;Meso;7;;;
+1191042|45|653;2806cf6b74bf;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito da tabela
+1191042|47|486;899a4070c53e;Inteligência Artificial;conta;Meso;7;;;
+1191042|47|530;d5473696041c;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-Requisito(s)
+1191042|122|329;dd74ebd0e354;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1191042|122|403;08addfb9aae5;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1191042|122|1035;050c0ac52a8c;Inteligência Artificial;conta;Micro;13;;;
+1191042|122|1318;39379019bdcb;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1191042|123|329;52ba1ab75c38;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Título da ficha repetido na continuação (cont.), repetição
+1191042|123|417;85bb2df983c3;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia básica
+1191042|123|513;54e0703ab8c4;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1191042|123|625;78df32ae7350;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1191042|211|722;2524d136ad0c;Inteligência Artificial;descarta;;;bibliografia;;
+1191042|211|1150;29167ef1ad66;Inteligência Artificial;descarta;;;bibliografia;;
+1191042|219|899;d96df2874f2c;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1191042|219|1036;14f762065f5d;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1191042|255|341;9a763dce6b9d;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1191042|255|438;e5a1a503af98;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1191042|290|542;a27f6769c722;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministram
+1191042|290|705;d288a1f1a7b4;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministram
+1191042|292|936;da7e720e63cc;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministram
+1191042|295|844;3e029c5317a9;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministram
+1191240|19|165;cb178dccef8e;Inteligência Artificial;descarta;;;docente;;Quadro de docentes (área de atuação)
+1191240|19|523;3a038043cfce;Inteligência Artificial;descarta;;;docente;;Quadro de docentes (área de atuação)
+1191240|19|621;e69a7c96388f;Inteligência Artificial;descarta;;;docente;;Quadro de docentes (área de atuação)
+1191240|37|859;888fc7bdda1b;Inteligência Artificial;conta;Meso;7;;;
+1191240|48|1843;939c9a4c517f;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1191240|56|2130;71de20302f6d;Inteligência Artificial;conta;Micro;12;ementa;;Campo Descrição da ficha (ementa)
+1191240|57|44;df4d9082b530;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|57|607;72cf248e669f;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|57|824;883cc550ed36;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|60|267;096ef7be17b8;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|60|1585;df0b3dbf6498;Inteligência Artificial;conta;Micro;12;ementa;;
+1191240|79|1512;8ed57e2ab525;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1191240|79|1787;f22e5c89b95b;Inteligência Artificial;conta;Micro;12;ementa;;
+1191240|79|1857;ab139207d925;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|79|1930;a43233ede693;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|79|2007;aec30e4e3836;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|80|17;b61cc2ed9e4a;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|80|173;af204dbf5b12;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|80|311;ec60e7c275f2;Inteligência Artificial;descarta;;;bibliografia;;
+1191240|80|428;6df24e255c36;Artificial Intelligence;descarta;;;bibliografia;;
+1191240|80|1325;096ef7be17b8;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|20|-1;3a5d172a2ad8;Inteligência Artificial;conta;Meso;7;;;Quadro curricular
+1205729|24|183;c9c1742fd4a2;Inteligência Artificial;conta;Meso;7;;;Quadro de Componentes Curriculares, coluna Nome
+1205729|26|934;845f8842971a;Inteligência Artificial;conta;Meso;7;;;
+1205729|26|986;92cbef7a7110;Inteligência Artificial;conta;Meso;11;;;Coluna Pré-Requisitos do Quadro de Componentes (IA II exige IA)
+1205729|31|1070;98073a1d8aec;Inteligência Artificial;conta;Meso;7;;;
+1205729|87|40;ff7f6115e90f;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1205729|87|488;6f81eda9c0f7;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|87|564;a9d4ae2958bc;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|87|714;1b3fddbfed8e;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|87|883;6ff928a4b414;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|87|1086;47c7900c26c6;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1205729|115|40;73b6fb977c67;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1205729|115|177;1fca0f4bbe1c;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1205729|115|478;284d55320e9b;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|115|554;a9d4ae2958bc;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|115|704;1cd5445322fd;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|115|873;396997f82daa;Inteligência Artificial;descarta;;;bibliografia;;
+1205729|115|1076;a3e031ea617b;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1205729|117|481;3daa42792ede;IA;descarta;;;sigla_outro_sentido;;"IA em lista de redes industriais (Profibus FMS/DP/PA); não é Inteligência Artificial"
+1205729|126|1643;ae3b107a7183;Inteligência Artificial;descarta;;;infraestrutura;;Lista de laboratórios
+1205729|131|663;b9ea2451840d;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (objetivo do Laboratório de Hardware de Automação)
+1205729|135|487;ad9a004d7e3f;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório de Inteligência Artificial
+1205729|135|556;a8e09cb02056;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório de Inteligência Artificial
+1205729|135|623;fafe17bfe593;Inteligência Artificial;descarta;;;infraestrutura;;Laboratório de Inteligência Artificial (infraestrutura)
+1258915|24|1117;aec26002476b;Inteligência Artificial;conta;Meso;7;;;
+1258915|27|1083;370c3a7e243f;Inteligência Artificial;conta;Meso;7;;;
+1258915|30|164;239dabdfbd38;Inteligência Artificial;conta;Meso;7;;;Tabela de componentes do núcleo NDSC com carga horária, coluna nome
+1258915|66|2444;8b01e29468aa;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1258915|67|202;cf04d39ee3a0;Inteligência Artificial;conta;Micro;12;ementa;;
+1258915|67|506;9026f0be7a85;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|604;a3c5f4e8b082;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|674;a343b4d84fba;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|779;59056cc8470c;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|977;e3a4bab361f9;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|1119;d551d276aed2;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|67|1209;74710a788a71;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|82|1471;d13303dfdbe8;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|82|1550;1cb0899964f7;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|82|1792;400869c2bcbd;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|83|148;46f24f34cf42;Artificial Intelligence;descarta;;;bibliografia;;
+1258915|83|277;716696add378;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|83|1361;db51f6ac1f8e;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|83|1494;93e9a2efce9a;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|83|1567;28fb50abb7d0;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1258915|83|1905;2bef9645c2fe;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1258915|85|131;e20fbdeb4274;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|85|230;17d0c7bfbfb0;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|85|314;c87ab988b81a;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|103|1920;158288c2b8f3;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|103|2004;fda542c52dab;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|104|700;8a2538b06aa5;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia complementar da ficha (LUGER, Inteligência artificial)
+1258915|104|1265;9760a58f163d;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|104|1349;fda542c52dab;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|104|2072;7615ae9f7bbb;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1258915|105|1341;be212bad4b6d;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|109|411;ad23b216fd23;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|109|509;1be42939ea46;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|109|593;c87ab988b81a;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|109|684;3257d0a7383f;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|109|1343;6f74f8a83be8;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|113|1116;944321508294;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1258915|113|1346;78216e2b9bfc;Inteligência Artificial;conta;Micro;12;ementa;;
+1258915|113|1393;2c5784d87d36;Inteligência Artificial;conta;Micro;12;ementa;;
+1258915|113|1512;2ec5d8ad0862;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|113|1610;1be42939ea46;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|113|1694;423d75dcaed2;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|113|1977;441e7cfa1dd3;Inteligência Artificial;descarta;;;bibliografia;;
+1258915|116|464;fc91cfb1b5da;Inteligência Artificial;descarta;;;bibliografia;;
+1260723|23|2028;989d7b094925;Inteligência Artificial;conta;Meso;9;;;Seção 9.6 Fluxograma (decisão h)
+1260723|25|825;084088ede6ad;Inteligência Artificial;conta;Meso;7;;;
+1260723|27|1483;ffcd6df00dd8;Inteligência Artificial;conta;Meso;7;;;Quadro núcleo de conteúdos x componentes (decisão r)
+1260723|120|1447;01e7290bfbcb;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1260723|120|2066;f205b36b485a;Inteligência Artificial;conta;Micro;13;;;
+1260723|121|55;79d0f68dc545;Inteligência Artificial;conta;Micro;14;;;Campo Competências/Habilidades da ficha
+1260723|121|135;02f7eeec0299;Inteligência Artificial;conta;Micro;14;;;Campo Competências/Habilidades da ficha
+1260723|125|1213;9bc582015b71;Inteligência Artificial;conta;Micro;12;ementa;;
+1260723|125|1373;6d6b1f29bc41;IA;conta;Micro;13;;;
+1260723|147|260;921940692ace;Inteligência Artificial;conta;Meso;7;;;
+1262277|27|1100;6653194daf64;Inteligência Artificial;descarta;;;linha_pesquisa;;Lista das linhas de pesquisa da Faculdade
+1262277|28|1505;bc571b88a428;Inteligência Artificial;descarta;;;linha_pesquisa;;Resumo de projeto de pesquisa de docente (lista de projetos)
+1262277|28|1671;b2e66a2a1fd0;Inteligência Artificial;descarta;;;linha_pesquisa;;Título de projeto de pesquisa de docente (lista de projetos)
+1262277|29|376;f5416cb72793;Inteligência Artificial;descarta;;;linha_pesquisa;;Resumo de projeto de pesquisa de docente
+1262277|41|1507;4fd234451cc2;Inteligência Artificial;descarta;;;docente;;Quadro de docentes (área)
+1262277|45|222;cc79903e57a9;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (disciplinas atendidas)
+1262277|45|2215;9ecc682c104a;Inteligência Artificial;descarta;;;infraestrutura;;Descrição de laboratório (disciplinas atendidas)
+1262277|52|1354;a5b381967a4e;Inteligência Artificial;conta;Meso;7;;;
+1262277|55|856;e6e23dc82d85;Inteligência Artificial;conta;Meso;7;;;
+1262277|58|565;6cc0a13a8ab7;Inteligência Artificial;conta;Meso;7;;;
+1262277|60|1777;fc03ec638c42;Inteligência Artificial;conta;Meso;9;;;Anexo V representação gráfica do perfil de formação com setas (decisão h)
+1262277|62|1952;704b2a184083;Inteligência Artificial;conta;Meso;7;;;Anexo VII atividades curriculares x competências (decisão i)
+1262277|63|1234;e8234008e1b1;Inteligência Artificial;conta;Meso;7;;;Anexo VII atividades curriculares x competências (decisão i)
+1262277|96|1627;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|109|5;29415ce4d930;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1262277|109|202;b30bfc8655e1;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+1262277|109|513;809c60a12391;Inteligência Artificial;conta;Micro;12;ementa;;
+1262277|109|657;be86fd945950;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1262277|109|1065;2ade3452fe90;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|109|1167;09d82bd0f4dc;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|109|1309;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|109|2065;350f9bcad40f;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|133|854;350f9bcad40f;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|133|1059;1e462b205e78;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|133|1188;7f4c66333760;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|133|1519;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|134|770;61189e0438f3;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1262277|134|913;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|134|1368;424ed1c67ce6;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|134|1470;09d82bd0f4dc;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|134|1705;629d01129bc9;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|135|979;350f9bcad40f;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|135|1184;1e462b205e78;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|135|1314;7f4c66333760;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia complementar (COPPIN)
+1262277|135|1645;9ec86ccd8567;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|136|1485;582ff44402e9;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|136|1587;09d82bd0f4dc;Inteligência Artificial;descarta;;;bibliografia;;
+1262277|136|1940;42b894c21336;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|26|760;52786212e131;Inteligência Artificial;conta;Macro;6;;;Prosa cita norma e lista componentes do próprio curso (y, h)
+1270062|30|274;6345330bbb8c;Inteligência Artificial;conta;Meso;7;;;
+1270062|30|711;e4f96c94a4e2;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|34|361;b5dc3d66534b;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|35|166;cf3f0f42a0e2;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|35|230;0a755f43cbd9;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|35|706;8aac0099b7c6;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|36|1091;7b4d03ef747f;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|40|4;bb35de3b1de0;Inteligência Artificial;conta;Meso;7;;;
+1270062|41|350;e4f96c94a4e2;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisito
+1270062|47|1264;8726253f07a2;Inteligência Artificial;conta;Macro;6;;;Descrição em prosa dos eixos: componentes curriculares relacionados ao eixo
+1270062|68|432;71730bf99809;Inteligência Artificial;descarta;;;equivalencia;;Quadro de Equivalência dos Fluxos Curriculares
+1270062|68|459;d0be36e05ef9;Inteligência Artificial;descarta;;;equivalencia;;Quadro de Equivalência dos Fluxos Curriculares
+1270062|114|1495;7af960258802;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1270062|114|1941;010a8dc230e9;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|115|71;0fae4c6d92e2;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|115|302;a3340c8ee1be;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|115|554;d16b136edfaa;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|137|1231;220145e746dd;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|157|1242;0059e0b5c405;Inteligência Artificial;descarta;;;bibliografia;;
+1270062|157|1849;ae73268cb17a;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|53|1585;7ed69849d43d;Inteligência Artificial;sem_topico;Meso;;;;Quadro disciplina x tópicos relacionados: termo na coluna de tópicos (decisão r)
+1272009|55|993;c5267c78850f;Inteligência Artificial;conta;Meso;7;;;
+1272009|71|1751;549d20195f1c;Inteligência Artificial;conta;Macro;6;;;Seção Estrutura curricular
+1272009|76|1920;83420a3ae556;Inteligência Artificial;conta;Meso;7;;;
+1272009|95|1186;64942333ab3f;Inteligência Artificial;descarta;;;docente;;Formação de docente em texto (y, b)
+1272009|95|1274;6dd525882895;Inteligência Artificial;descarta;;;docente;;Formação de docente em texto (y, b)
+1272009|126|5449;c030653ee60c;Inteligência Artificial;conta;Meso;7;;;Tabela de disciplinas optativas embutida no fluxograma/matriz (decisão r)
+1272009|228|667;1e06e6686e01;Inteligência Artificial;conta;Micro;12;ementa;;
+1272009|228|744;62f8e704a229;IA;conta;Micro;12;ementa;;
+1272009|228|760;f05ac8cab2f4;IA;conta;Micro;12;ementa;;
+1272009|229|122;e4b0955231bf;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|229|193;92766b16d144;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|229|665;34617aa05e21;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia (LUGER)
+1272009|246|48;92237c5fd1ce;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|246|118;091a12bea8a2;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|246|586;07c4a242e8a9;Inteligência Artificial;descarta;;;bibliografia;;
+1272009|295|171;4fc48efea473;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1272009|295|598;c8dc66050bf1;Inteligência Artificial;conta;Micro;12;ementa;;
+1272009|296|131;a417b8234871;Inteligência Artificial;descarta;;;bibliografia;;
+1279331|6|804;411e16a8ab0b;Inteligência Artificial;descarta;;;sumario;;
+1279331|45|2554;d07f9d01f0e6;Inteligência Artificial;descarta;;;termo_citado_norma;;Seção 4.7.1 Áreas de atuação reproduz a Res. CONFEA 1.073/16 e o anexo de campos de atuação (norma citada)
+1279331|45|2912;f84a7f57df6a;Inteligência Artificial;descarta;;;termo_citado_norma;;Seção 4.7.1 Áreas de atuação reproduz a Res. CONFEA 1.073/16 e o anexo de campos de atuação (norma citada)
+1279331|48|-1;50c425755d64;Inteligência Artificial;conta;Meso;7;;;Figura 3 Matriz Curricular em grade sem setas
+1279331|84|727;e46eb8d4e7bd;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1279331|84|945;d437743c5abe;Inteligência Artificial;conta;Micro;12;ementa;;
+1279331|84|1234;c641cf44ffee;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1279331|100|1212;d2b829f074c6;Inteligência Artificial;conta;Micro;12;ementa;;
+1279331|118|673;ab5a2a892f04;Inteligência Artificial;conta;Meso;7;;;Tabela 97 categorias x componentes (decisão r)
+1279331|119|382;32e89f987842;Inteligência Artificial;conta;Meso;7;;;Quadro competências x componentes (decisão r)
+1279331|120|787;d77f0d9d8b14;Inteligência Artificial;conta;Meso;7;;;Quadro competências x componentes (decisão r)
+1279331|123|1801;164acb71d3a4;Inteligência Artificial;descarta;;;equivalencia;;Tabela 101 de convalidação de componentes (equivalência)
+1282843|111|89;6f3652ead311;Inteligência Artificial;conta;Micro;12;ementa;;
+1282843|111|587;1ba3a6ff3de4;Inteligência Artificial;descarta;;;bibliografia;;
+1282843|111|1229;477d4c3171c7;Inteligência Artificial;descarta;;;bibliografia;;
+1282843|136|1012;f13b61c02800;Inteligência Artificial;descarta;;;bibliografia;;
+1282843|136|1370;2523f594fd9c;Inteligência Artificial;descarta;;;bibliografia;;
+1285338|14|634;a533d42e5f48;Inteligência Artificial;conta;Macro;2;;;Seção 4.1 Contextualização e inserção do curso
+1285338|54|1504;42872c19735a;Inteligência Artificial;conta;Meso;7;;;Tabela 8 de UCs eletivas com extensão (linhas = componentes, decisão i)
+1285338|95|435;ad7c3f5d42d9;Artificial Intelligence;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1299933|40|310;ec4c9887b445;Inteligência Artificial;conta;Meso;7;;;Quadro de disciplinas da unidade de formação (linhas = componentes)
+1299933|48|1956;106d22255139;Inteligência Artificial;conta;Meso;7;;;
+1299933|117|325;b14eb0e772c4;Inteligência Artificial;descarta;;;bibliografia;;
+1299933|117|531;93fce2806410;Inteligência Artificial;descarta;;;bibliografia;;
+1299933|134|1026;ee61b06a73e0;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1299933|134|1069;3c6947a9b512;IA;conta;Micro;12;ementa;;
+1299933|135|159;b3cd47bedfa0;Inteligência Artificial;descarta;;;bibliografia;;
+1299933|135|231;57aca58c3b69;Inteligência Artificial;descarta;;;bibliografia;;
+1313213|12|660;f710946f76a1;Inteligência Artificial;descarta;;;equivalencia;;"Lista em prosa ""X (optativa) equivalente a Y (obrigatória)"" (y, m)"
+1313213|16|4437;4fcb437f3d56;Inteligência Artificial;conta;Macro;1;;;Seção 3.3 Políticas institucionais no âmbito do curso (F3)
+1313213|25|2140;2e2d662ad225;Inteligência Artificial;conta;Macro;4;;;Seção 3.7 Áreas de atuação do egresso
+1313213|69|664;1fdb77b2b42a;Inteligência Artificial;descarta;;;infraestrutura;;Lista de laboratórios
+1313213|120|819;b352be5b3cce;Inteligência Artificial;conta;Micro;12;ementa;;
+1313213|120|1027;a1902da38bd4;Artificial Intelligence;descarta;;;bibliografia;;Bibliografia básica
+1313213|159|1879;ead768499892;Artificial Intelligence;descarta;;;bibliografia;;
+1313442|7|1091;5432e374d231;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1313442|8|175;b3d3234b0223;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1313442|26|890;12175414ba5d;Inteligência Artificial;conta;Macro;1;;;Seção 5 Apresentação do curso (decisão s)
+1313442|53|1816;694b1f47bb0f;Inteligência Artificial;conta;Meso;7;;;
+1313442|58|-1;52e789dcda69;Inteligência Artificial;conta;Meso;9;;;Representação gráfica do perfil de formação com setas (decisão h)
+1313442|61|904;8ff201c5b8f2;Inteligência Artificial;conta;Meso;7;;;
+1313442|125|14;c422bc0f5b57;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1313442|125|217;f49b80184634;IA;conta;Micro;12;ementa;;
+1313442|125|506;d5d35dc6de6f;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|710;fc71cb1beffa;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|838;b37a347d2a59;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|1000;5104c3f327bc;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|1136;d97453e39d57;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|1273;15ba42203ea9;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|125|1383;1acde61d568b;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|238;bd0a495d73d8;Inteligência Artificial;conta;Micro;12;ementa;;
+1313442|142|447;f93dc3ba6e7c;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|651;fc71cb1beffa;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|779;b37a347d2a59;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|941;5104c3f327bc;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|1077;d97453e39d57;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|1214;d6cbc403de42;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|142|1324;1acde61d568b;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|143|959;2042ff6ef134;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|145|960;2042ff6ef134;Inteligência Artificial;descarta;;;bibliografia;;
+1313442|196|1429;c499b85d4815;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1342196|30|954;d8f777d9d918;Inteligência Artificial;conta;Macro;2;;;Seção 2.2 Justificativa de demanda do curso
+1342196|43|1237;feb3230015d9;Inteligência Artificial;conta;Meso;7;;;
+1342196|51|1086;e1a0fae8dbd3;Inteligência Artificial;conta;Meso;7;;;Quadro 5 correlação currículo SBC x disciplinas (decisão r)
+1342196|225|-2;1fbbc8f72180;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1342196|225|-1;ce0530f7b939;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1342196|225|94;0f8b7618beb3;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1342196|225|410;f2123b24dfec;Inteligência Artificial;conta;Micro;12;ementa;;
+1342196|225|902;a90e68fb4c9c;IA;conta;Micro;13;;;
+1342196|225|1068;cfb0c440bfe3;Inteligência Artificial;conta;Micro;15;;;
+1342196|225|1125;848a0388dbe3;Inteligência Artificial;conta;Micro;15;;;
+1342196|226|984;59fcd830f5e8;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|226|1076;77111b68e69a;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|227|30;9a58f7c9fc30;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|227|242;e8542eec706d;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|227|357;dda07cc33ead;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|295|1077;fedd6c6a2a26;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|314|160;372aec72b499;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1342196|316|30;a50e434890eb;Inteligência Artificial;descarta;;;bibliografia;;
+1342196|316|418;1f17f3ade9db;Artificial Intelligence;descarta;;;bibliografia;;
+1342196|326|171;b95aabda0509;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1349106|195|128;9462c44a52d7;Inteligência Artificial;descarta;;;bibliografia;;
+1349106|195|307;8d044c1b4a10;Inteligência Artificial;descarta;;;bibliografia;;
+1349106|228|2125;a49fd8bac214;Inteligência Artificial;conta;Micro;12;ementa;;Ementário (nome + ementa)
+1349106|236|1180;7cac40aa7076;Inteligência Artificial;descarta;;;infraestrutura;;Softwares instalados nos laboratórios (infraestrutura)
+1349106|260|1176;e178f0373c83;Inteligência Artificial;descarta;;;bibliografia;;
+1349106|260|1342;8d044c1b4a10;Inteligência Artificial;descarta;;;bibliografia;;
+1364594|18|223;b37ce7fe6cb6;Inteligência Artificial;conta;Macro;3;;;Seção 2.1.2 Objetivos
+1364594|24|-1;50c1d23f7456;Inteligência Artificial;conta;Meso;9;;;"Grade em blocos com setas de pré-requisito; sem seta chegando ao termo (ponto fino 2)"
+1364594|33|337;7d151d9a9935;Inteligência Artificial;conta;Meso;7;;;
+1364594|43|638;132068183a1f;Inteligência Artificial;conta;Meso;7;;;
+1364594|49|605;72d602e17893;Inteligência Artificial;descarta;;;equivalencia;;Quadro 12 equivalências dos eletivos PPC 2019 x 2025
+1364594|49|634;452e072226d1;Inteligência Artificial;descarta;;;equivalencia;;Quadro 12 equivalências dos eletivos PPC 2019 x 2025
+1364594|52|682;b50b5308df13;Inteligência Artificial;descarta;;;equivalencia;;Quadro 13 componentes equivalentes entre cursos da instituição (y, c)
+1364594|52|716;0b5fdd1129aa;Inteligência Artificial;descarta;;;equivalencia;;Quadro 13 componentes equivalentes entre cursos da instituição (y, c)
+1364594|103|433;b06e0bca4a52;Inteligência Artificial;conta;Meso;7;;;Apêndice A: competências do egresso x componentes (decisão r)
+1364594|152|362;f3b54c4a81e7;Inteligência Artificial;conta;Micro;15;;;
+1364594|174|1569;6b84cb1513e4;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Componente Curricular: nome no cabeçalho da ficha
+1364594|174|1601;a0393c4cb031;IA;descarta;;;duplicata_extenso;;"""Código: IA"" colado ao nome Inteligência Artificial na ficha"
+1364594|175|163;efeb7fc7bd9b;Inteligência Artificial;conta;Micro;12;ementa;;
+1364594|175|225;554012708636;Inteligência Artificial;conta;Micro;12;ementa;;
+1364594|175|371;9d3c28a483be;IA;conta;Micro;13;;;
+1364594|175|476;b90587fe1f84;IA;conta;Micro;13;;;Campo Objetivo(s) da ficha
+1364594|175|564;9a47f333d673;IA;conta;Micro;13;;;
+1364594|175|681;2379d24dfc02;Inteligência Artificial;conta;Micro;15;;;
+1364594|175|751;70ca59c8afbb;Inteligência Artificial;conta;Micro;15;;;
+1364594|175|1369;15532174548b;Inteligência Artificial;descarta;;;bibliografia;;
+1364594|191|1927;dbfea4031a3a;Inteligência Artificial;descarta;;;bibliografia;;
+1364594|194|2674;25010c2a8456;Artificial Intelligence;descarta;;;bibliografia;;
+1364594|196|340;5ad3b5657802;Inteligência Artificial;conta;Micro;12;ementa;;
+1364594|196|1778;1713146a98b7;Inteligência Artificial;conta;Micro;15;;;
+1365040|46|151;cd15cbe6f172;Inteligência Artificial;descarta;;;infraestrutura;;Quadro de laboratórios com disciplinas atendidas
+1365040|51|-1;f95a2efa4a58;Inteligência Artificial;conta;Meso;7;;;Figura 2 Matriz curricular
+1365040|51|549;8e2268a59b68;Inteligência Artificial;conta;Meso;7;;;Tabela da matriz por período
+1365040|56|302;2a38819242f2;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1365040|56|724;156fe0d9c70b;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1365040|56|804;7a5e5146df62;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia básica
+1365040|56|882;0e2a705e1497;Artificial Intelligence;descarta;;;bibliografia;;
+1365040|56|1011;98b9a79713d3;Inteligência Artificial;descarta;;;bibliografia;;
+1365040|56|1092;31ce713ffcdb;Inteligência Artificial;descarta;;;bibliografia;;
+1365040|56|1279;58c7277dae3b;Inteligência Artificial;descarta;;;bibliografia;;Bibliografia complementar
+1366656|17|93;9afeff37e9dd;Inteligência Artificial;conta;Macro;3;;;Seção 3 Objetivos do curso
+1366656|24|1163;dce13149ae64;Inteligência Artificial;conta;Meso;7;;;Matriz por semestre
+1366656|29|46;986dc7f1b0fb;Inteligência Artificial;conta;Meso;7;;;
+1366656|94|92;8db99e6ac6bc;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1366656|94|677;29b2fa0ed63a;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1366656|94|1223;4f6b8576d189;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1313;6421d969f0af;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1392;4b30486d1be8;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1540;3140224e69c6;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1772;4b93d3f359b3;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1861;5f764bff6a79;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|94|1938;3241010cd781;Inteligência Artificial;descarta;;;bibliografia;;
+1366656|137|1045;cda545bc0572;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1377586|34|946;947d340e97d4;Inteligência Artificial;conta;Meso;7;;;
+1377586|41|535;b2e77dc4f87b;Inteligência Artificial;conta;Meso;7;;;
+1377586|110|546;ea0215591ac3;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1377586|110|623;2e5e04b216a6;Inteligência Artificial;conta;Micro;12;ementa;;
+1377586|110|882;7209a67f7ccc;Inteligência Artificial;descarta;;;bibliografia;;
+1377586|110|1385;34340adf3a1a;Inteligência Artificial;descarta;;;bibliografia;;
+1377586|110|1534;707b4ec15d99;Inteligência Artificial;descarta;;;bibliografia;;
+1377586|110|1608;c7423cd0c0f2;Inteligência Artificial;descarta;;;bibliografia;;
+1377586|111|159;2a76e05ee37f;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1420616|13|685;387af99154b6;Inteligência Artificial;conta;Macro;1;;;Seção 1.6 Histórico do câmpus (decisão l)
+1420616|35|948;2c8d461f16d3;Inteligência Artificial;conta;Meso;7;;;
+1420616|194|271;034fd9e64e79;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1420616|194|695;aadad260b69f;Inteligência Artificial;conta;Micro;15;;;
+1420616|194|778;87878dc97361;Inteligência Artificial;conta;Micro;12;ementa;;
+1420616|194|1068;c983af1bfbbc;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos da ficha
+1420616|194|1197;c85d3ec2c95f;Inteligência Artificial;conta;Micro;15;;;
+1420616|194|1429;0c67314dd6e3;Inteligência Artificial;descarta;;;bibliografia;;
+1420616|194|1514;185c4b1c3c0a;Inteligência Artificial;descarta;;;bibliografia;;
+1420616|194|1585;24851bf86c87;Inteligência Artificial;descarta;;;bibliografia;;
+1420616|195|241;0bcc7e8451cd;Inteligência Artificial;descarta;;;bibliografia;;
+1443206|73|1438;a04e18a0b201;Inteligência Artificial;conta;Macro;5;;;Subseção 4.6.1 Competências e habilidades esperadas do egresso (z, 2)
+1443206|76|1160;d07f9d01f0e6;Inteligência Artificial;descarta;;;termo_citado_norma;;Áreas de atuação reproduz a Res. CONFEA e o anexo de campos de atuação (norma citada)
+1443206|76|1519;b8588d59bbec;Inteligência Artificial;descarta;;;termo_citado_norma;;Áreas de atuação reproduz a Res. CONFEA e o anexo de campos de atuação (norma citada)
+1443206|111|286;2be9153cc47d;Inteligência Artificial;conta;Micro;12;ementa;;Campo Ementa da ficha
+1443206|111|366;782c688889ba;IA;conta;Micro;12;ementa;;
+1446219|99|417;6621fbec4e5b;Artificial Intelligence;descarta;;;bibliografia;;
+1446219|118|936;da02f0061679;Inteligência Artificial;descarta;;;bibliografia;;
+1446219|125|1492;ae348ff87d86;Inteligência Artificial;descarta;;;bibliografia;;
+1446219|126|561;479cb5777339;Inteligência Artificial;descarta;;;bibliografia;;
+1446219|135|215;f3aa355e7cfd;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|32|152;b845033c707c;Inteligência Artificial;conta;Meso;7;;;
+1457165|35|746;64066cfabc52;Inteligência Artificial;conta;Meso;7;;;
+1457165|59|2727;7f6699abce33;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1457165|60|491;8311f59fd363;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|60|571;790439707220;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|60|710;199f7e804037;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|60|786;1719253b0cc4;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|60|875;11873a6d7520;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|60|1035;0369b99ed49c;Artificial Intelligence;descarta;;;bibliografia;;Bibliografia (RECH, Artificial intelligence, environment and smart cities)
+1457165|65|1785;8311f59fd363;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|65|1865;790439707220;Inteligência Artificial;descarta;;;bibliografia;;
+1457165|74|145;548805175a61;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1457165|74|929;6515c55e46ce;Artificial Intelligence;descarta;;;bibliografia;;
+1457299|37|1580;9797b53f7d3a;Inteligência Artificial;conta;Macro;6;;;Seção 3 Organização curricular
+1457299|40|1591;91cc105b189a;Inteligência Artificial;conta;Macro;6;;;Seção 3 Organização curricular
+1457299|42|643;d841a2f9aebe;Inteligência Artificial;conta;Meso;7;;;
+1457299|48|0;fb0a0b1e9663;Inteligência Artificial;conta;Meso;7;;;
+1457299|54|1061;f126d50558ef;Inteligência Artificial;conta;Macro;1;;;Seção 3.3 Metodologia de ensino (F3)
+1457299|84|-1;78bb526f6c87;Inteligência Artificial;conta;Meso;9;;;Fluxograma curricular (decisão h)
+1457299|92|350;5f5d79dd34ef;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com coluna de disciplinas que ministra
+1457299|92|1163;c65424de1966;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministra
+1457299|93|456;5f5d79dd34ef;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministra
+1457299|94|292;5f5d79dd34ef;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministra
+1457299|96|594;5f5d79dd34ef;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministra
+1457299|96|1285;cc7457cb7f71;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas que ministra
+1457299|159|1051;318d13a95e41;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1457299|160|41;c275c8ff75e7;Inteligência Artificial;conta;Micro;13;;;
+1457299|160|623;2314a8869ef6;Inteligência Artificial;descarta;;;bibliografia;;Reconferido: obra citada na lista de referências
+1457299|160|669;3f04f1245743;Artificial Intelligence;descarta;;;bibliografia;;
+1457299|160|806;caa88ce7d511;Artificial Intelligence;descarta;;;bibliografia;;
+1457299|160|1040;e604f537074d;Artificial Intelligence;descarta;;;bibliografia;;
+1457299|188|809;67fcdf3337b9;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1457299|204|568;057794afee5d;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1457502|161|898;90b54c039b7b;Inteligência Artificial;conta;Micro;15;;;
+1457502|161|1403;67fbc5a409b2;Inteligência Artificial;descarta;;;bibliografia;;
+1457502|161|1508;c064bbd306f2;Inteligência Artificial;descarta;;;bibliografia;;
+1457502|161|1609;c1306235116a;Inteligência Artificial;descarta;;;bibliografia;;
+1457502|162|93;adf1cf4756b3;Inteligência Artificial;descarta;;;bibliografia;;
+1457502|196|714;b9d3905d1286;Inteligência Artificial;conta;Micro;15;;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1457502|197|937;871e2734b714;Inteligência Artificial;descarta;;;bibliografia;;
+1486962|22|1550;a2c8db333c09;Inteligência Artificial;conta;Macro;2;;;Seção 3 Justificativa
+1486962|47|1339;237bacf79dc6;Inteligência Artificial;conta;Meso;7;;;
+1486962|175|449;62bc8e89b392;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1486962|175|748;7370fceb2b5a;IA;descarta;;;duplicata_extenso;;
+1486962|175|751;5a95be8c28fd;Inteligência Artificial;conta;Micro;12;ementa;;
+1486962|175|890;4fea39dbe90e;IA;descarta;;;duplicata_extenso;;IA-Inteligência Artificial na ementa (sigla colada ao extenso)
+1486962|175|894;2a6b4752a4fe;Inteligência Artificial;conta;Micro;12;ementa;;
+1486962|175|998;4f3a043f52b4;IA;conta;Micro;13;;;Campo Objetivos da ficha
+1486962|175|1054;c4a959fdbefe;Inteligência Artificial;conta;Micro;13;;;
+1486962|175|1079;37989a749272;IA;descarta;;;duplicata_extenso;;
+1486962|175|1119;19c77cebc56c;Inteligência Artificial;conta;Micro;13;;;Campo Objetivos
+1486962|175|1198;370ee7072614;Inteligência Artificial;conta;Micro;15;;;
+1486962|175|1223;fbc777a93524;IA;descarta;;;duplicata_extenso;;
+1486962|175|1244;83528e4cfdf3;IA;conta;Micro;15;;;
+1486962|175|1263;5a1b29460799;IA;conta;Micro;15;;;
+1486962|175|1283;1a2679780cf0;IA;conta;Micro;15;;;
+1486962|176|172;c11a476aedb2;Inteligência Artificial;conta;Micro;15;;;
+1486962|176|284;108dfa874c3b;Inteligência Artificial;descarta;;;bibliografia;;
+1486962|176|346;17022a9ef6cd;Inteligência Artificial;descarta;;;bibliografia;;
+1486962|176|446;f435a595e832;Inteligência Artificial;descarta;;;bibliografia;;
+1486962|176|722;7d21b141d6b8;Inteligência Artificial;descarta;;;bibliografia;;
+1486962|205|1362;a2c8db333c09;Inteligência Artificial;conta;Macro;2;;;Apêndice A Diagnóstico socioeconômico para abertura do curso (repetição da Justificativa)
+1503583|20|1267;9ef8c04f753c;Inteligência Artificial;conta;Macro;4;;;Seção 4.1 Perfil do egresso
+1503583|25|2334;c488e410d21e;Inteligência Artificial;conta;Macro;1;;;Seção 4.3.1 Integração ensino, pesquisa e extensão (F3)
+1503583|68|1471;208c926fa8e4;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, ementa do eixo (decisão o)
+1503583|68|1542;9bd13553b0e6;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, ementa do eixo (decisão o)
+1503583|69|739;181d0f74e339;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, desdobramento em disciplinas (decisão o)
+1503583|69|2108;0a610b0e0125;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1503583|70|429;a2a1c646aa18;Inteligência Artificial;conta;Micro;12;ementa;;
+1503583|70|500;9bd13553b0e6;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido no PDF
+1503583|70|1797;ad2cf8aee13f;Inteligência Artificial;conta;Micro;12;cabecalho_ficha;;Campo Pré-requisitos do cabeçalho da ficha
+1503583|89|1083;2a36742ef766;Inteligência Artificial;conta;Meso;7;;;
+1503583|94|630;d3011047236d;Inteligência Artificial;conta;Meso;7;;;
+1503583|99|-1;958f6c74c6e7;Inteligência Artificial;conta;Meso;9;;;Quadro 14 representação gráfica do perfil de formação (ponto fino 1)
+1503583|102|873;12b17c3d42e9;Inteligência Artificial;conta;Meso;7;;;Quadro disciplinas x competências (linhas = componentes)
+1503583|158|1566;55ffad7ab4f7;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|158|1963;6f15bbed7eb9;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|315;19136b04de1c;Inteligência Artificial;descarta;;;bibliografia;;Apêndice só de bibliografia por disciplina (y, a)
+1503583|159|385;7080b1cce935;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|468;44410ff63597;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|793;dbfea4031a3a;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|916;e25909ed3629;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|1036;9ef033416176;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|1636;95f5c39d6559;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|159|2169;dbfea4031a3a;Inteligência Artificial;descarta;;;bibliografia;;
+1503583|161|593;1b676c721b65;Inteligência Artificial;descarta;;;bibliografia;;
+1516690|28|1017;0d5eb5826167;Inteligência Artificial;conta;Macro;4;;;Seção 6 Campo de atuação profissional
+1516690|34|1438;e07d3c4dcbb1;Inteligência Artificial;conta;Macro;6;;;Prosa: componentes curriculares do curso por núcleo
+1516690|40|572;2bc69385f437;Inteligência Artificial;conta;Meso;7;;;
+1516690|42|-1;6f8a689e241a;Inteligência Artificial;conta;Meso;7;;;Grade intitulada Matriz Curricular, sem setas
+1516690|46|670;74879561d23b;Inteligência Artificial;conta;Meso;7;;;
+1516690|57|1011;78d2168a3f1c;Inteligência Artificial;conta;Micro;12;ementa;;
+1516690|99|27;faf3cac5b946;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1516690|99|418;e9a4e2238a16;IA;conta;Micro;12;ementa;;
+1516690|99|848;0b1a77bfbefe;Artificial Intelligence;descarta;;;bibliografia;;
+1516690|99|990;935eba5285e8;Inteligência Artificial;descarta;;;bibliografia;;
+1516690|99|1622;c9f3aae130fc;Inteligência Artificial;descarta;;;bibliografia;;
+1576192|92|402;1476fc2fee33;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, objetivos (decisão o)
+1576192|92|802;811df76cbade;Inteligência Artificial;conta;Macro;6;;;Quadro de eixo, desdobramento em disciplinas (decisão o)
+1576192|93|1770;81e5974a2f0f;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1576192|103|305;2e4f69a78808;Inteligência Artificial;conta;Meso;7;;;
+1576192|105|-1;c37a88f917a3;Inteligência Artificial;conta;Meso;7;;;Quadro 4 Matriz Curricular em grade (sem setas)
+1576192|115|845;fb0d80524ed1;Inteligência Artificial;conta;Meso;7;;;Quadro de disciplinas com docente como coluna (z, 1)
+1576192|144|2461;1b4397d04f94;Inteligência Artificial;descarta;;;bibliografia;;Apêndice só de bibliografia por disciplina (y, a)
+1576192|145|491;daabcdbec335;Inteligência Artificial;descarta;;;bibliografia;;
+1616801|29|2392;bcfe8a61fd27;Inteligência Artificial;conta;Macro;6;;;Seção 6 Organização curricular / 6.1 Articulação curricular
+1616801|37|799;8caee54830a4;Inteligência Artificial;conta;Meso;7;;;
+1616801|41|-1;26b36a4472d5;Inteligência Artificial;conta;Meso;9;;;Figura 6.3.1 representação gráfica do perfil de formação com setas (decisão h)
+1616801|43|1491;648fd6cfef6e;Inteligência Artificial;conta;Meso;7;;;Tabela de pré-requisitos (linhas = componentes)
+1616801|44|231;58be4e42bc68;Inteligência Artificial;conta;Meso;11;;;Termo na coluna Pré-requisitos (Aprendizado de Máquina exige IA)
+1616801|72|761;c4f1f6ec7132;Inteligência Artificial;conta;Macro;6;;;Seção 9 Componentes curriculares semipresenciais (EaD, F3)
+1616801|85|878;6930ca40e66d;Inteligência Artificial;conta;Macro;6;;;Seção 11.1 Curricularização da extensão
+1616801|253|223;b32e1e456e2d;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1616801|253|782;750d46512382;Inteligência Artificial;conta;Micro;15;;;Grupos de conhecimentos essenciais, dentro da ficha
+1616801|253|865;b5c053a45c17;Inteligência Artificial;conta;Micro;12;ementa;;
+1616801|253|1021;6b85b45d9669;Inteligência Artificial;conta;Micro;12;ementa;;
+1616801|253|1177;5f55c2dec278;IA;conta;Micro;13;;;Campo Objetivos da ficha
+1616801|253|1423;de55c1f25e1f;IA;conta;Micro;13;;;Campo Objetivos da ficha
+1616801|253|1536;11a009620203;Inteligência Artificial;conta;Micro;15;;;
+1616801|253|1757;cd307676904d;Inteligência Artificial;conta;Micro;15;;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1616801|253|1841;12af1859d999;Artificial Intelligence;descarta;;;bibliografia;;
+1616801|253|1929;192d78581b01;Inteligência Artificial;descarta;;;bibliografia;;
+1616801|253|2307;adac2ef2e1a4;Inteligência Artificial;descarta;;;bibliografia;;
+1616801|254|281;9d23c6e39e8f;Artificial Intelligence;descarta;;;bibliografia;;
+1616801|254|402;93c51615e143;Inteligência Artificial;descarta;;;bibliografia;;
+1616801|261|782;12fe121ddedb;Inteligência Artificial;conta;Micro;15;;;
+1616801|261|1925;c3a01334ecef;Inteligência Artificial;descarta;;;bibliografia;;
+1616801|262|285;e74f34ee7c8c;Artificial Intelligence;descarta;;;bibliografia;;
+1616801|262|775;333ad89aca70;Artificial Intelligence;descarta;;;bibliografia;;
+1616801|280|1940;eb4a32d4e2fc;Inteligência Artificial;conta;Micro;15;;;
+1616801|280|1965;6d1cf9afc53e;IA;descarta;;;duplicata_extenso;;
+1616801|281|302;8545c255489a;Inteligência Artificial;conta;Micro;15;;;Programa/conteúdo programático da ficha
+1616801|281|327;1fa4648dad01;IA;descarta;;;duplicata_extenso;;
+1616801|281|707;ee1b44aad909;Inteligência Artificial;conta;Micro;15;;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+1616801|281|732;8601980addc6;IA;descarta;;;duplicata_extenso;;
+1685515|10|975;cabf86b1c05a;Inteligência Artificial;conta;Macro;2;;;Seção 2 Introdução (F3)
+1685515|22|333;a36369db31b2;Inteligência Artificial;conta;Macro;4;;;Seção 8 Áreas de atuação
+1685515|23|724;5ed22a880a91;Inteligência Artificial;conta;Macro;4;;;Seção 9 Perfil profissional do egresso
+1685515|34|403;ef6a6501659f;Inteligência Artificial;conta;Meso;7;;;
+1685515|39|-1;e4722d5fc5d5;Inteligência Artificial;conta;Meso;9;;;Fluxograma (decisão h)
+1685515|56|1166;cf3fe45bd8a5;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1685515|56|2382;efb84e843a34;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1685515|58|435;2ea6e666217f;Inteligência Artificial;descarta;;;docente;;Quadro de docentes com disciplinas
+1685515|129|67;9cc343042a70;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+1685515|129|347;f879a549591a;Inteligência Artificial;conta;Micro;12;ementa;;
+1685515|129|372;d7435a5e352d;IA;descarta;;;duplicata_extenso;;
+1685515|129|713;d1f4bcf69b01;Inteligência Artificial;conta;Micro;13;;;
+1685515|129|1444;9ba92b271ef6;Inteligência Artificial;descarta;;;bibliografia;;
+1685515|129|1578;3c6edc67270e;Inteligência Artificial;descarta;;;bibliografia;;
+1685515|129|1651;792a694f5111;Inteligência Artificial;descarta;;;bibliografia;;
+1685515|134|2280;e80e6cb8bff1;Inteligência Artificial;descarta;;;bibliografia;;
+1685515|143|2237;e80e6cb8bff1;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|71|1385;50543da76d83;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+5000324|71|1441;f25326288142;Inteligência Artificial;conta;Micro;12;ementa;;Reconferido: termo fora da bibliografia (a marca de referência é da obra vizinha)
+5000324|71|1602;15bf30fa5ef8;Inteligência Artificial;conta;Micro;12;ementa;;
+5000324|71|1674;7b18594baa8b;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|71|1765;2ddd47aaa13c;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|71|1854;49e6814f46a2;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|71|1990;c12dabbc144f;Artificial Intelligence;descarta;;;bibliografia;;
+5000324|71|2135;7eb731dca382;Artificial Intelligence;descarta;;;bibliografia;;
+5000324|71|2206;2e0a3bd924c8;Artificial Intelligence;descarta;;;bibliografia;;
+5000324|71|2322;e0af2c4e1d5b;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|74|2438;9d0f4555712b;Artificial Intelligence;descarta;;;bibliografia;;
+5000324|79|1813;a643c18bd9ec;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|79|1925;c02b025ba48d;Inteligência Artificial;descarta;;;bibliografia;;
+5000324|79|2083;6719105fb6f6;Inteligência Artificial;descarta;;;bibliografia;;
+5000846|23|1611;922fbb04c2a8;Inteligência Artificial;conta;Macro;6;;;Prosa sobre os módulos da estrutura curricular (módulo verde)
+5000846|27|2020;832c82c04c52;Inteligência Artificial;conta;Macro;6;;;Prosa sobre alterações na grade curricular
+5000846|29|1388;4500ca3c6a78;Inteligência Artificial;conta;Macro;6;;;Prosa sobre alterações na grade curricular
+5000846|29|1644;ed00cfb322b6;Inteligência Artificial;conta;Macro;6;;;Prosa sobre alterações na grade curricular
+5000846|149|93;1eb66cf43255;Inteligência Artificial;conta;Micro;12;titulo_ficha;;Nome da disciplina (título/cabeçalho da ficha)
+5000846|149|224;a7cdea4b98e2;Inteligência Artificial;conta;Micro;14;;;Competências da disciplina, CD1
+5000846|149|249;ef30f736bd23;IA;descarta;;;duplicata_extenso;;
+5000846|149|622;2b904dab3a97;IA;conta;Micro;14;;;
+5000846|149|904;3f61baed163e;IA;conta;Micro;14;;;
+5000846|149|1182;aae44e264200;IA;conta;Micro;14;;;
+5000846|149|1433;b838c4d20c8c;IA;conta;Micro;14;;;
+5000846|180|687;be3125e6b57b;Inteligência Artificial;conta;Meso;7;;;Quadro competências x disciplinas (linhas = componentes)

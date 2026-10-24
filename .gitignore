@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# gerados ao rodar o kit
+resultado/
+ambiente_python/
+
+# PDFs dos PPCs: não são redistribuídos (ver entradas/ppc/LEIA-ME.txt)
+entradas/ppc/*.pdf

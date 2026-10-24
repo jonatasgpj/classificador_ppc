@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Classificação das ocorrências</title>
+<style>
+  :root { --fundo:#f6f7f9; --card:#fff; --texto:#1c2330; --suave:#667085; --borda:#d8dde6; --azul:#2457c5; --verde:#1b7f4a; --vermelho:#b42318; --amarelo:#fff3c4; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.45 system-ui, Segoe UI, Arial, sans-serif; background:var(--fundo); color:var(--texto); height:100vh; display:flex; flex-direction:column; overflow:hidden; }
+  header { display:flex; flex-wrap:wrap; justify-content:center; gap:6px 22px; align-items:center; padding:8px 14px 12px; background:#fff; border-bottom:1px solid var(--borda); position:relative; flex:none; z-index:5; }
+  header select { font:inherit; padding:5px 8px; border:1px solid var(--borda); border-radius:6px; background:#fff; }
+  .prog { color:var(--suave); }
+  .barra { position:absolute; left:0; right:0; bottom:0; height:5px; background:#e3e8f2; }
+  .barra i { display:block; height:100%; width:0; background:var(--azul); transition:width .25s; }
+  main { flex:1; min-height:0; width:100%; display:grid; grid-template-columns: minmax(0, 1fr) minmax(400px, 450px); grid-template-rows:minmax(0, 1fr); gap:16px; padding:14px; max-width:1500px; margin:0 auto; }
+  #painel { overflow-y:auto; min-height:0; align-self:start; max-height:100%; }
+  @media (max-width: 900px) { body { height:auto; overflow:auto; display:block; } main { display:block; } #painel { max-height:none; } .paginas { height:80vh; margin-bottom:14px; } }
+  .nav { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0; padding-top:10px; border-top:1px solid var(--borda); }
+  .nav button { font:inherit; font-size:13px; padding:5px 9px; border:1px solid var(--borda); border-radius:6px; background:#fff; cursor:pointer; }
+  .nav button:hover { border-color:var(--azul); }
+  .card { background:var(--card); border:1px solid var(--borda); border-radius:10px; padding:14px; }
+  .meta { color:var(--suave); font-size:13px; display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px; }
+  .selo { background:#eef1f6; border-radius:999px; padding:1px 9px; }
+  .selo.alerta { background:var(--amarelo); }
+  .trecho { background:#fafbfc; border:1px solid var(--borda); border-radius:8px; padding:10px; margin:8px 0 12px; white-space:pre-wrap; }
+  .trecho mark { background:#ffd9b0; padding:0 2px; border-radius:3px; font-weight:600; }
+  .botoes { display:flex; flex-wrap:wrap; gap:8px; margin:8px 0; }
+  .botoes button { font:inherit; padding:7px 12px; border:1px solid var(--borda); border-radius:8px; background:#fff; cursor:pointer; text-align:left; }
+  .botoes button:hover { border-color:var(--azul); }
+  .botoes button.sugerido { border-color:var(--azul); background:#eef4ff; }
+  .botoes button kbd { background:#eef1f6; border-radius:4px; padding:0 5px; margin-right:6px; font-size:12px; }
+  .passo { font-weight:600; margin-top:6px; }
+  .sug { background:#eef4ff; border:1px solid #c9d9fb; border-radius:8px; padding:6px 10px; margin-bottom:8px; font-size:13px; }
+  .sug.aviso { background:var(--amarelo); border-color:#e7d27a; }
+  .resp { background:#e9f7ef; border:1px solid #bfe3cd; border-radius:8px; padding:6px 10px; margin-bottom:8px; }
+  .resp.vazia { background:#f6f7f9; border-color:var(--borda); color:var(--suave); }
+  .alterna { font:inherit; font-size:13px; padding:4px 10px; margin-bottom:8px; border:1px solid var(--borda); border-radius:6px; background:#fff; cursor:pointer; }
+  .alterna:hover { border-color:var(--azul); }
+  .alterna kbd { background:#eef1f6; border-radius:4px; padding:0 5px; margin-right:6px; font-size:12px; }
+  textarea, input.texto, select.tipo { width:100%; font:inherit; padding:6px 8px; border:1px solid var(--borda); border-radius:6px; }
+  .paginas { position:relative; width:100%; max-width:940px; justify-self:center; height:100%; overflow-y:auto; padding-right:6px; }
+  .faixa { position:sticky; top:0; z-index:4; margin-bottom:10px; }
+  .pg { position:relative; margin-bottom:12px; min-height:300px; }
+  .pg img { width:100%; display:block; border:1px solid var(--borda); border-radius:6px; background:#fff; }
+  .pg .rot { position:absolute; top:6px; right:8px; background:rgba(255,255,255,.9); border-radius:999px; padding:0 9px; font-size:12px; color:var(--suave); }
+  .pg.alvo img { border:2px solid var(--azul); }
+  .pg.alvo .rot { background:var(--azul); color:#fff; }
+  #aviso { color:var(--vermelho); min-height:1.3em; }
+  #info { color:var(--verde); min-height:1.3em; }
+  .ajuda { color:var(--suave); font-size:12px; margin-top:8px; }
+  .fim { text-align:center; padding:30px 10px; }
+</style>
+</head>
+<body>
+<header>
+  <label>Lista <select id="lote"></select></label>
+  <span class="prog" id="prog"></span>
+  <div class="barra"><i id="barra"></i></div>
+</header>
+<main>
+  <section class="paginas" id="paginas"></section>
+  <section class="card" id="painel">Carregando…</section>
+</main>
+<script>
+const S = { lotes: [], motivos: [], tipos: [], categorias: [], lote: null, itens: [], idx: 0, item: null, etapa: 'nivel', nivel: null,
+            desfazer: [], ocupado: false, pedido: 0, verSug: false, viuSug: false };
+const NIVEIS = ['Macro', 'Meso', 'Micro'];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+async function api(url, opcoes) { const r = await fetch(url, opcoes); const j = await r.json().catch(() => ({})); if (!r.ok) throw new Error(j.erro || r.status); return j; }
+const postar = corpo => api('/api/evento', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(corpo) });
+
+async function iniciar() {
+  const e = await api('/api/estado');
+  S.motivos = e.motivos; S.tipos = e.tipos_ementa; S.categorias = e.categorias;
+  S.lotes = e.lotes;
+  montarSeletor(localStorage.getItem('lista'));
+  $('lote').onchange = () => { $('lote').blur(); abrirLote($('lote').value); };
+  await abrirLote($('lote').value);
+}
+
+function rotuloLista(l) { return `${l.nome} (${l.respondidos}/${l.total})`; }
+
+function montarSeletor(selecionado) {
+  const sel = $('lote');
+  sel.innerHTML = S.lotes.map(l => `<option value="${esc(l.lote)}">${esc(rotuloLista(l))}</option>`).join('');
+  sel.value = (selecionado && S.lotes.some(l => l.lote === selecionado)) ? selecionado : S.lotes[0].lote;
+}
+
+async function recarregarLotes() {
+  const e = await api('/api/estado'); S.lotes = e.lotes; montarSeletor(S.lote ? S.lote.lote : null);
+}
+
+async function abrirLote(id) {
+  try { localStorage.setItem('lista', id); } catch (e) { }
+  const l = await api('/api/lote/' + encodeURIComponent(id));
+  S.lote = l; S.itens = l.itens; S.item = null;
+  if (!S.itens.length) { $('painel').innerHTML = '<div class="fim">Esta lista está vazia.</div>' + navHTML(); $('paginas').innerHTML = ''; atualizarProgresso(); return; }
+  const prim = S.itens.findIndex(i => !i.respondido);
+  await irPara(prim >= 0 ? prim : 0);
+}
+
+async function irPara(i) {
+  if (!S.itens.length) return;
+  const meu = ++S.pedido;
+  const idx = Math.max(0, Math.min(S.itens.length - 1, i));
+  const item = await api('/api/item?chave=' + encodeURIComponent(S.itens[idx].chave));
+  if (meu !== S.pedido) return;
+  S.idx = idx; S.item = item; S.etapa = 'nivel'; S.nivel = null; S.verSug = false; S.viuSug = false;
+  desenhar(); desenharPaginas(); atualizarProgresso();
+}
+
+function atualizarProgresso() {
+  const feitos = S.itens.filter(i => i.respondido).length;
+  $('prog').textContent = `${S.lote.nome}: ${feitos}/${S.itens.length} classificadas · item ${S.idx + 1}`;
+  $('barra').style.width = (S.itens.length ? Math.round(100 * feitos / S.itens.length) : 0) + '%';
+  const l = S.lotes.find(x => x.lote === S.lote.lote); if (l) l.respondidos = feitos;
+  [...$('lote').options].forEach((o, k) => { const x = S.lotes[k]; if (x) o.textContent = rotuloLista(x); });
+}
+
+function desenharPaginas() {
+  const c = encodeURIComponent(S.item.chave), p = S.item.pagina;
+  const pg = d => `<div class="pg${d === 0 ? ' alvo' : ''}" id="pg${d}"><span class="rot">p. ${p + d}${d === 0 ? ' · ocorrência' : ''}</span>
+      <img src="/pagina?chave=${c}&d=${d}" alt="página ${p + d}" onload="ancorar()" onerror="erroPagina(this, ${d})"></div>`;
+  $('paginas').innerHTML = `
+    <div class="card faixa">
+      <b>Página ${p}</b> · ${esc(S.item.sigla)}
+      <a href="/pdf/${encodeURIComponent(S.item.arquivo)}#page=${p}" target="_blank">abrir o PDF nesta página ↗</a>
+      ${S.item.destaque === 'manual' ? '<span class="selo alerta">ocorrência registrada à mão (a máquina não lê essa página); veja a página abaixo</span>' : ''}
+      ${S.item.destaque === 'escaneada' ? '<span class="selo alerta">página escaneada: sem destaque, use o trecho à direita</span>' : ''}
+      ${S.item.destaque === 'ambiguo' ? '<span class="selo alerta">destaque ambíguo: todas as ocorrências em amarelo, nenhuma marcada</span>' : ''}
+    </div>${pg(-1)}${pg(0)}${pg(1)}`;
+  S.ancorando = true; $('paginas').scrollTop = 0;
+  clearTimeout(S.tAncora); S.tAncora = setTimeout(() => { S.ancorando = false; }, 2500);
+}
+
+function erroPagina(img, d) {
+  if (!img.dataset.tent) { img.dataset.tent = '1'; img.src = img.src + '&r=' + Date.now(); return; }
+  if (d === 0) {
+    img.style.display = 'none';
+    img.parentNode.insertAdjacentHTML('beforeend', '<div class="card" style="color:var(--vermelho)">A página da ocorrência não carregou. Recarregue (F5) ou abra o leitor do PDF (R).</div>');
+  } else img.parentNode.style.display = 'none';
+}
+
+function ancorar() {
+  const c = $('paginas'), a = $('pg0');
+  if (!S.ancorando || !a) return;
+  const f = c.querySelector('.faixa');
+  c.scrollTop = a.offsetTop - (f ? f.offsetHeight : 0) - 10;
+}
+$('paginas').addEventListener('wheel', () => { S.ancorando = false; }, { passive: true });
+$('paginas').addEventListener('touchmove', () => { S.ancorando = false; }, { passive: true });
+
+function navHTML() {
+  return `<div class="nav"><button data-nav="prox">Próxima sem classificação (N)</button><button data-nav="ant">◀ Anterior (←)</button><button data-nav="seg">Seguinte (→) ▶</button>
+    <button data-nav="undo">Desfazer (Ctrl+Z)</button><button data-nav="leitor">Abrir o leitor do PDF (R)</button></div>`;
+}
+
+function categoriasDo(nivel) { return S.categorias.filter(c => c.nivel === nivel && c.tipo === 'direta'); }
+function nomeCategoria(id) { const c = S.categorias.find(x => String(x.id) === String(id)); return c ? `${c.nivel} › ${c.nome}` : id; }
+function nomeMotivo(m) { return (S.motivos.find(x => x[0] === m) || [m, m])[1]; }
+
+function descreverResposta(r) {
+  if (r.decisao === 'conta') return `conta · ${nomeCategoria(r.id_categoria)}${r.motivo ? ' (' + r.motivo + ')' : ''}`;
+  if (r.decisao === 'sem_topico') return `${r.nivel} · sem tópico`;
+  if (r.decisao === 'descarta') return `descarte · ${nomeMotivo(r.motivo)}`;
+  return 'dúvida';
+}
+
+function desenhar() {
+  const it = S.item, r = it.resposta;
+  const guarda = (S.desenhado === it.chave && $('nota')) ? { nota: $('nota').value, componente: $('componente').value, tipo: $('tipo') ? $('tipo').value : null } : null;
+  const trecho = esc(it.trecho).replace(/«(.*?)»/s, '<mark>$1</mark>');
+  let html = `<div class="meta"><span class="selo">${esc(it.sigla)}</span><span class="selo">pág. ${it.pagina}</span><span class="selo">${esc(it.termo)}</span>
+      ${it.ocr_fraco ? '<span class="selo alerta">OCR fraco</span>' : ''}</div>
+    <div class="trecho">${trecho}</div>
+    <button class="alterna" data-acao="sug"><kbd>S</kbd>${S.verSug ? 'Esconder sugestão e classificação' : 'Mostrar sugestão e classificação'}</button>`;
+  if (S.verSug) {
+    const sug = it.sug_nivel ? `${esc(it.sug_nivel)} (${esc(it.sug_forca)})${it.sug_topico ? ' › ' + esc((nomeCategoria(it.sug_topico).split('› ')[1]) || '') : ''}${it.sug_rotulo ? ' · rótulo: ' + esc(it.sug_rotulo) : ''}` : 'sem sugestão de nível';
+    html += `<div class="sug"><b>Sugestão automática por regras</b> (pode estar errada): ${sug}<br>Triagem: <b>${esc(it.triagem_auto)}</b>${it.sug_motivo ? ' · motivo sugerido: ' + esc(nomeMotivo(it.sug_motivo)) : ''}</div>`;
+    if (it.sug_aviso) html += `<div class="sug aviso">⚠ ${esc(it.sug_aviso)}</div>`;
+    html += r ? `<div class="resp">Classificação atual: <b>${esc(descreverResposta(r))}</b></div>` : '<div class="resp vazia">Ainda não classificada.</div>';
+  }
+  html += passoHTML() + navHTML();
+  html += `<div style="margin-top:10px"><label>Componente (disciplina), opcional<input class="texto" id="componente"></label></div>
+    <div style="margin-top:8px"><label>Nota<textarea id="nota" rows="2"></textarea></label></div>
+    <div id="aviso"></div><div id="info"></div>
+    <div class="ajuda">${ajudaTeclas()}</div>`;
+  $('painel').innerHTML = html;
+  S.desenhado = it.chave;
+  if (guarda) { $('nota').value = guarda.nota; $('componente').value = guarda.componente; if (guarda.tipo !== null && $('tipo')) $('tipo').value = guarda.tipo; }
+  if (S.verSug && r) {
+    if (!$('nota').value) $('nota').value = r.nota || '';
+    if (!$('componente').value) $('componente').value = r.componente || '';
+  }
+  document.querySelectorAll('[data-acao]').forEach(b => b.onclick = () => acao(b.dataset.acao, b.dataset.valor));
+}
+
+function ajudaTeclas() {
+  const base = 'S mostra/esconde sugestão e classificação · ← → navega · N próxima sem classificação · R leitor do PDF · Ctrl+Z desfaz · ? dúvida · Esc volta';
+  if (S.etapa === 'topico') return 'Teclas: 1-9 tópico · 0 sem tópico · ' + base;
+  if (S.etapa === 'motivo') return 'Teclas: 1-9 e 0 motivo · ' + base;
+  return 'Teclas: 1 Macro · 2 Meso · 3 Micro · D descarte · ' + base;
+}
+
+function tipoEmentaHTML() {
+  if (S.nivel !== 'Micro') return '';
+  const r = S.item.resposta;
+  const atual = (S.verSug && r && String(r.id_categoria) === '12') ? (r.motivo || '') : '';
+  return `<div style="margin:6px 0"><label>Tipo de ementa (opcional)<select class="tipo" id="tipo"><option value="">— não informar —</option>
+    ${S.tipos.map(t => `<option value="${t[0]}"${t[0] === atual ? ' selected' : ''}>${esc(t[1])}</option>`).join('')}</select></label></div>`;
+}
+
+function passoHTML() {
+  const sugTopico = (S.verSug && S.item.sug_topico) ? String(S.item.sug_topico) : '';
+  const sugMotivo = S.verSug ? (S.item.sug_motivo || '') : '';
+  if (S.etapa === 'nivel') {
+    return `<div class="passo">1. Em que parte do PPC está esta ocorrência?</div><div class="botoes">
+      ${NIVEIS.map((n, k) => `<button data-acao="nivel" data-valor="${n}"><kbd>${k + 1}</kbd>${n}</button>`).join('')}
+      <button data-acao="descarte"><kbd>D</kbd>Descartar</button><button data-acao="duvida"><kbd>?</kbd>Dúvida</button></div>`;
+  }
+  if (S.etapa === 'topico') {
+    const cats = categoriasDo(S.nivel);
+    return `<div class="passo">2. ${S.nivel}: qual o tópico?</div><div class="botoes">
+      ${cats.map((c, k) => `<button${String(c.id) === sugTopico ? ' class="sugerido"' : ''} data-acao="topico" data-valor="${c.id}"><kbd>${k + 1}</kbd>${esc(c.nome)}</button>`).join('')}
+      <button data-acao="sem_topico"><kbd>0</kbd>Nenhum destes (sem tópico)</button><button data-acao="voltar"><kbd>Esc</kbd>voltar</button><button data-acao="duvida"><kbd>?</kbd>Dúvida</button></div>${tipoEmentaHTML()}`;
+  }
+  if (S.etapa === 'motivo') {
+    return `<div class="passo">Motivo do descarte</div><div class="botoes">
+      ${S.motivos.map((m, k) => `<button${m[0] === sugMotivo ? ' class="sugerido"' : ''} data-acao="motivo" data-valor="${m[0]}"><kbd>${k < 9 ? k + 1 : k === 9 ? 0 : '·'}</kbd>${esc(m[1])}</button>`).join('')}
+      <button data-acao="voltar"><kbd>Esc</kbd>voltar</button></div>`;
+  }
+  return '';
+}
+
+function aviso(t) { const a = $('aviso'); if (a) a.textContent = t || ''; }
+function info(t) { const a = $('info'); if (a) a.textContent = t || ''; }
+
+function acao(tipo, valor) {
+  if (S.ocupado) return;
+  if (tipo === 'sug') { S.verSug = !S.verSug; if (S.verSug) S.viuSug = true; desenhar(); }
+  else if (tipo === 'nivel') { S.nivel = valor; S.etapa = 'topico'; desenhar(); }
+  else if (tipo === 'descarte') { S.etapa = 'motivo'; desenhar(); }
+  else if (tipo === 'voltar') { S.etapa = 'nivel'; S.nivel = null; desenhar(); }
+  else if (tipo === 'topico') enviar({ decisao: 'conta', nivel: S.nivel, id_categoria: valor, motivo: (valor === '12' && $('tipo')) ? $('tipo').value : '' });
+  else if (tipo === 'sem_topico') enviar({ decisao: 'sem_topico', nivel: S.nivel });
+  else if (tipo === 'motivo') enviar({ decisao: 'descarta', motivo: valor });
+  else if (tipo === 'duvida') enviar({ decisao: 'duvida' });
+}
+
+function campo(id) {
+  const v = ($(id).value || '').trim();
+  return (!v && !S.viuSug) ? null : v;
+}
+
+async function enviar(resp) {
+  if (S.ocupado) return;
+  const nota = campo('nota'), componente = campo('componente');
+  const notaFinal = nota ?? ((S.item.resposta && S.item.resposta.nota) || '');
+  if (resp.decisao === 'duvida' && !notaFinal) { aviso('Dúvida exige uma nota.'); $('nota').focus(); return; }
+  if (resp.motivo === 'outro_nao_curricular' && !notaFinal) { aviso('Este motivo exige uma nota.'); $('nota').focus(); return; }
+  S.ocupado = true;
+  const chave = S.item.chave, idx = S.idx, lote = S.lote.lote;
+  try {
+    await postar(Object.assign({ lote, chave, acao: 'responder', nota, componente }, resp));
+  } catch (e) { aviso('Não gravou: ' + e.message); S.ocupado = false; return; }
+  S.itens[idx].respondido = resp.decisao !== 'duvida'; S.desfazer.push({ chave, lote });
+  S.desenhado = null;
+  atualizarProgresso();
+  try { await recarregarLotes(); } catch (e) { }
+  try {
+    let prox = S.itens.findIndex((i, k) => k > idx && !i.respondido);
+    if (prox < 0) prox = S.itens.findIndex((i, k) => k < idx && !i.respondido);
+    if (prox >= 0 && prox !== idx) await irPara(prox);
+    else if (idx + 1 < S.itens.length) await irPara(idx + 1);
+    else fimDaLista();
+  } finally { S.ocupado = false; }
+}
+
+function fimDaLista() {
+  const faltam = S.itens.filter(i => !i.respondido).length;
+  $('painel').innerHTML = `<div class="fim"><h3>${faltam ? 'Fim da lista' : 'Lista concluída ✔'}</h3>
+    <p>${esc(S.lote.nome)}: ${S.itens.length - faltam}/${S.itens.length} classificadas.${faltam ? ' Ainda faltam ' + faltam + ' (use N).' : ''}</p>
+    <p>Escolha outra lista no seletor acima.</p></div>${navHTML()}`;
+  $('paginas').innerHTML = '';
+}
+
+async function desfazerUltimo() {
+  if (S.ocupado) return;
+  const u = S.desfazer[S.desfazer.length - 1];
+  if (!u) { aviso('Nada para desfazer nesta sessão.'); return; }
+  S.ocupado = true;
+  try {
+    await postar({ lote: u.lote, chave: u.chave, acao: 'desfazer' });
+    S.desfazer.pop();
+  } catch (e) { aviso('Não desfez: ' + e.message); S.ocupado = false; return; }
+  try {
+    if (!S.lote || S.lote.lote !== u.lote) $('lote').value = u.lote;
+    await abrirLote(u.lote);
+    const k = S.itens.findIndex(i => i.chave === u.chave);
+    if (k >= 0) await irPara(k);
+    await recarregarLotes();
+    info('Desfeito: ' + u.chave);
+  } catch (e) { aviso('Desfeito, mas a tela não recarregou (' + e.message + '). Recarregue a página.'); }
+  finally { S.ocupado = false; }
+}
+
+function proxima() { if (S.ocupado) return; const k = S.itens.findIndex((i, n) => n > S.idx && !i.respondido); irPara(k >= 0 ? k : Math.max(0, S.itens.findIndex(i => !i.respondido))); }
+document.addEventListener('click', ev => {
+  const b = ev.target.closest('[data-nav]'); if (!b) return;
+  const n = b.dataset.nav;
+  if (n === 'prox') proxima();
+  else if (n === 'ant') { if (!S.ocupado) irPara(S.idx - 1); }
+  else if (n === 'seg') { if (!S.ocupado) irPara(S.idx + 1); }
+  else if (n === 'undo') desfazerUltimo();
+  else if (n === 'leitor') abrirLeitor();
+});
+function abrirLeitor() {
+  if (!S.item) return;
+  window.open('/leitor?arquivo=' + encodeURIComponent(S.item.arquivo) + '&pagina=' + S.item.pagina + '&chave=' + encodeURIComponent(S.item.chave), '_blank');
+}
+
+document.addEventListener('keydown', ev => {
+  const alvo = ev.target.tagName;
+  const emCampo = alvo === 'TEXTAREA' || alvo === 'INPUT' || alvo === 'SELECT';
+  if (emCampo) { if (ev.key === 'Escape') ev.target.blur(); return; }
+  if (ev.repeat) return;
+  if ((ev.ctrlKey || ev.metaKey) && ev.key.toLowerCase() === 'z') { ev.preventDefault(); desfazerUltimo(); return; }
+  if (ev.ctrlKey || ev.metaKey || ev.altKey) return;
+  if (S.ocupado) return;
+  const k = ev.key;
+  if (k === 'ArrowDown' || k === 'ArrowUp' || k === 'PageDown' || k === 'PageUp') {
+    ev.preventDefault(); S.ancorando = false;
+    const c = $('paginas'), p = (k === 'PageDown' || k === 'PageUp') ? c.clientHeight * 0.9 : 140;
+    c.scrollBy({ top: (k === 'ArrowDown' || k === 'PageDown') ? p : -p });
+    return;
+  }
+  if (k === 'ArrowRight') { irPara(S.idx + 1); return; }
+  if (k === 'ArrowLeft') { irPara(S.idx - 1); return; }
+  if (k.toLowerCase() === 'n') { proxima(); return; }
+  if (k.toLowerCase() === 'r') { abrirLeitor(); return; }
+  if (!S.item) return;
+  if (k.toLowerCase() === 's') { acao('sug'); return; }
+  if (k === '?' || k === '/') { acao('duvida'); return; }
+  if (S.etapa === 'nivel') {
+    if (k === '1' || k === '2' || k === '3') acao('nivel', NIVEIS[+k - 1]);
+    else if (k.toLowerCase() === 'd') acao('descarte');
+  } else if (S.etapa === 'topico') {
+    const cats = categoriasDo(S.nivel);
+    if (k === 'Escape') acao('voltar');
+    else if (k === '0') acao('sem_topico');
+    else if (/^[1-9]$/.test(k) && cats[+k - 1]) acao('topico', String(cats[+k - 1].id));
+  } else if (S.etapa === 'motivo') {
+    if (k === 'Escape') acao('voltar');
+    else if (/^[0-9]$/.test(k)) { const n = k === '0' ? 9 : +k - 1; if (S.motivos[n]) acao('motivo', S.motivos[n][0]); }
+  }
+});
+
+iniciar().catch(e => { $('painel').textContent = 'Erro ao iniciar: ' + e.message; });
+</script>
+</body>
+</html>

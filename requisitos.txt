@@ -1,0 +1,17 @@
+# Pacotes do Python 3.12 usados pelo kit, nas versões exatas com que os resultados foram gerados (16/10/2026).
+# Outra versão pode mudar o texto extraído dos PDFs (pymupdf) ou os gráficos (matplotlib, numpy, pillow).
+# O 0_PREPARAR_AMBIENTE.bat instala estes pacotes em ambiente_python\.
+contourpy==1.3.2
+cycler==0.12.1
+et_xmlfile==2.0.0
+fonttools==4.58.1
+kiwisolver==1.4.8
+matplotlib==3.10.3
+numpy==2.0.0
+openpyxl==3.1.5
+packaging==25.0
+pillow==12.3.0
+pymupdf==1.28.2
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+six==1.17.0

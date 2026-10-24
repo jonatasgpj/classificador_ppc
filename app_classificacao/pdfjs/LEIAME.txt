@@ -1,0 +1,7 @@
+Cópia LOCAL e FIXA do PDF.js (pdfjs-dist 4.0.379, licença Apache-2.0, arquivo LICENSE ao lado), usada só pelo leitor da ferramenta de revisão.
+Origem: https://cdn.jsdelivr.net/npm/pdfjs-dist@4.0.379/ (build/pdf.min.mjs e build/pdf.worker.min.mjs). Não depende de internet para rodar.
+Não atualizar sem decisão: a versão fixa garante que a revisão seja reprodutível.
+
+pdf.min.mjs  305665 bytes  sha256=61c2ab9c464aabd52ae06ed7d175949c78f2b476cf477cab55a80ae9a6ce12d2
+pdf.worker.min.mjs  1029136 bytes  sha256=c0408d13d3a128743ea53b0162205487c27ad8312bef6b97eb5b4a07e27395c3
+LICENSE  10174 bytes  sha256=0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594

@@ -1,0 +1,8 @@
+﻿codigo_curso;hex;substituto;nota
+87960;1c;fi;ligadura fi (Arti?cial = Artificial)
+87960;1d;fl;ligadura fl (Forma??o ?exivel = Formação flexível)
+87960;1b;ff;ligadura ff
+87960;10;“;aspas de abertura
+87960;11;”;aspas de fechamento
+87960;15;•;marcador de lista
+87960;16;–;provável travessão (so aparece em endereço e numeração; não afeta a busca)

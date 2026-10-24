@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leitor do PPC</title>
+<style>
+  :root { --fundo:#e9ecf1; --borda:#cfd5df; --texto:#1c2330; --suave:#667085; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.4 system-ui, Segoe UI, Arial, sans-serif; background:var(--fundo); color:var(--texto); }
+  header { position:sticky; top:0; z-index:5; display:flex; gap:12px; align-items:center; padding:6px 12px; background:#fff; border-bottom:1px solid var(--borda); }
+  header input { width:70px; font:inherit; padding:3px 6px; }
+  header button { font:inherit; padding:3px 10px; cursor:pointer; }
+  #info { color:var(--suave); margin-left:auto; }
+  #paginas { display:flex; flex-direction:column; align-items:center; gap:12px; padding:12px; }
+  .pagina { position:relative; background:#fff; box-shadow:0 1px 4px rgba(0,0,0,.25); }
+  .pagina canvas { display:block; }
+  .pagina .num { position:absolute; top:4px; right:8px; color:var(--suave); font-size:12px; }
+  .caixa { position:absolute; background:rgba(255,120,0,.38); outline:1px solid rgba(255,120,0,.9); pointer-events:none; }
+  .caixa.outra { background:rgba(255,230,0,.35); outline-color:rgba(200,170,0,.8); }
+  #erro { color:#b42318; padding:20px; }
+</style>
+</head>
+<body>
+<header>
+  <b>Leitor do PPC</b>
+  <span id="nome"></span>
+  <label>Ir para a página <input id="ir" type="number" min="1"></label><button id="btn-ir">Ir</button>
+  <span id="info"></span>
+</header>
+<div id="paginas"></div>
+<div id="erro"></div>
+<script type="module">
+import * as pdfjsLib from '/pdfjs/pdf.min.mjs';
+pdfjsLib.GlobalWorkerOptions.workerSrc = '/pdfjs/pdf.worker.min.mjs';
+
+const q = new URLSearchParams(location.search);
+const arquivo = q.get('arquivo'), alvo = parseInt(q.get('pagina') || '1', 10), chave = q.get('chave');
+const ESCALA = 1.3;
+const $ = id => document.getElementById(id);
+
+async function principal() {
+  if (!arquivo) { $('erro').textContent = 'Faltou o parâmetro "arquivo".'; return; }
+  $('nome').textContent = arquivo;
+  const pdf = await pdfjsLib.getDocument({ url: '/pdf/' + encodeURIComponent(arquivo), isEvalSupported: false }).promise;
+  $('info').textContent = pdf.numPages + ' páginas · menção na página ' + alvo;
+  $('ir').max = pdf.numPages; $('ir').value = alvo;
+  let destaque = null;
+  if (chave) { try { destaque = await (await fetch('/api/destaque?chave=' + encodeURIComponent(chave))).json(); } catch (e) { destaque = null; } }
+
+  const primeira = await pdf.getPage(1);
+  const vp1 = primeira.getViewport({ scale: ESCALA });
+  const lugar = {};
+  const feitas = new Set();
+  const obs = new IntersectionObserver(entradas => entradas.forEach(e => { if (e.isIntersecting) desenhar(+e.target.dataset.n); }), { rootMargin: '1500px 0px' });
+  for (let n = 1; n <= pdf.numPages; n++) {
+    const d = document.createElement('div');
+    d.className = 'pagina'; d.dataset.n = n; d.style.width = vp1.width + 'px'; d.style.height = vp1.height + 'px';
+    $('paginas').appendChild(d); lugar[n] = d; obs.observe(d);
+  }
+
+  async function desenhar(n) {
+    if (feitas.has(n)) return;
+    feitas.add(n);
+    const pagina = await pdf.getPage(n);
+    const vp = pagina.getViewport({ scale: ESCALA });
+    const d = lugar[n];
+    d.style.width = vp.width + 'px'; d.style.height = vp.height + 'px';
+    const c = document.createElement('canvas');
+    c.width = vp.width; c.height = vp.height; d.appendChild(c);
+    const num = document.createElement('div'); num.className = 'num'; num.textContent = 'p. ' + n; d.appendChild(num);
+    await pagina.render({ canvasContext: c.getContext('2d'), viewport: vp }).promise;
+    if (n === alvo && destaque && destaque.caixas) {
+      for (const oc of destaque.caixas) for (const [x0, y0, x1, y1] of oc.caixas) {
+        const b = document.createElement('div');
+        b.className = 'caixa' + (oc.atual ? '' : ' outra');
+        b.style.left = (x0 * vp.width - 1) + 'px'; b.style.top = (y0 * vp.height - 1) + 'px';
+        b.style.width = ((x1 - x0) * vp.width + 2) + 'px'; b.style.height = ((y1 - y0) * vp.height + 2) + 'px';
+        d.appendChild(b);
+      }
+    }
+  }
+
+  function ir(n) {
+    n = Math.max(1, Math.min(pdf.numPages, n));
+    desenhar(n).then(() => lugar[n].scrollIntoView({ block: 'start' }));
+    lugar[n].scrollIntoView({ block: 'start' });
+  }
+  $('btn-ir').onclick = () => ir(parseInt($('ir').value, 10) || 1);
+  $('ir').onkeydown = e => { if (e.key === 'Enter') $('btn-ir').click(); };
+  ir(alvo);
+  setTimeout(() => ir(alvo), 600);
+}
+
+principal().catch(e => { $('erro').textContent = 'Erro ao abrir o PDF: ' + e.message; });
+</script>
+</body>
+</html>
